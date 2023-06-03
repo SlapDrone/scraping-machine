@@ -1,0 +1,84 @@
+version: '3.8'
+
+services:
+  # scrapy env
+  scraper:
+    build: 
+      context: ./scraper
+      dockerfile: Dockerfile
+    command: tail -f /dev/null
+    volumes:
+      - ./scraper:/usr/src/app
+    environment:
+      - ENVIRONMENT=dev
+      - TESTING=0
+      - ECHO_SQL=0
+      - DATABASE_URL=postgresql://postgres:postgres@scraper-db:5432/dev
+      - DATABASE_TEST_URL=postgresql://postgres:postgres@scraper-db:5432/test
+      - ASYNC_DATABASE_URL=postgresql+asyncpg://postgres:postgres@scraper-db:5432/dev
+      - ASYNC_DATABASE_TEST_URL=postgresql+asyncpg://postgres:postgres@scraper-db:5432/test
+      - UNDERLINE_EMAIL=${UNDERLINE_EMAIL}
+      - UNDERLINE_PASSWORD=${UNDERLINE_PASSWORD}
+    ports:
+      - 9999:8888
+  # analysis env
+  analysis:
+    build:
+      context: ./analysis
+      dockerfile: Dockerfile
+      #.gpu
+    #entrypoint: Xvfb :1 -screen 0 1024x768x24 &
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+    #         #- dockerfile: Dockerfile.gpu
+    volumes:
+      - ./analysis:/usr/src/app
+    environment:
+      - DISPLAY=:1
+      - DATABASE_URL=postgresql://postgres:postgres@scraper-db:5432/dev
+      - DATABASE_TEST_URL=postgresql://postgres:postgres@scraper-db:5432/test
+    ports:
+      - 8889:8888
+    command: poetry run poe jn
+    #poetry run jupyter notebook --no-browser --allow-root --ip 0.0.0.0 --port 8888
+    #tail -f /dev/null
+    #poetry run jupyter-notebook --no-browser --allow-root --ip 0.0.0.0 --port 8888
+  # PG database
+  scraper-db:
+    build:
+      context: ./db
+      dockerfile: Dockerfile
+    expose: 
+      - 5432
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+  # To add the above postgres server to pgadmin, use credentials defined by docker env vars above
+  # hostname/address = scraper-db 
+  # port 5432
+  # database dev or test
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: hi@me.com
+      PGADMIN_DEFAULT_PASSWORD: password
+      PGADMIN_LISTEN_PORT: 80
+    ports:
+      - "8080:80"
+    # volumes:
+    #   - pgadmin-data:/var/lib/pgadmin
+    links:
+      - "scraper-db:app-pgsql-server"
+  # splash server to scrape dynamic pages
+  splash:
+      restart: "no" # Options: on-failure, unless-stopped, always
+      # assign the built image a name(:tag)
+      image: scrapinghub/splash
+      ports:
+          # splash service
+          - "8050:8050"

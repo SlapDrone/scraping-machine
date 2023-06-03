@@ -1,0 +1,2826 @@
+id,response
+18,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Proteomics"", ""Tandem Mass Spectrometry"", ""Machine Learning"", ""Deep Learning"", ""Proteins"", ""Peptides"", ""MS/MS Spectrum Prediction"", ""Retention Time""],
+    ""Q4"": [""Proteomics"",""Drug Discovery"", ""Biomarker Identification"", ""Clinical Decision-making""]
+}
+"
+22,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Tabular Data"", ""Machine Learning"", ""Computer Vision"",""NLP tasks"",""Bank Account Fraud"",""Privacy-preserving"",""Large-scale"",""Realistic"",""Real-world"",""Class Imbalance"",""Data Bias""],
+    ""Q4"": [""Bank Account Fraud Detection"",""Real-world applications""]
+}
+"
+28,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Abdominal Multi-Organ Benchmark"",""Medical Image Segmentation"",""CT/MRI Scans"",""Deep Learning"",""Large-scale"",""Clinical dataset"",""Multi-center"",""Multi-vendor"",""Multi-modality"",""Multi-phase"",""Multi-disease"",""Abdominal organs"",""Segmentation Algorithms""],
+    ""Q4"": [""Medical Image Segmentation"",""Abdominal organs""]
+}
+"
+32,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Algorithmic fairness"",""Machine Learning"",""Decision making systems"",""Healthcare"",""Banking"",""Hiring"",""Education"",""Fairness"",""Privacy"",""Robustness"",""Interpretability"",""Mitigation strategies"",""Open questions"",""Trade-offs"",""Explainable models"",""Limitations"",""Critiques""],
+    ""Q4"": [""Healthcare"",""Banking"",""Hiring"",""Education""]
+}
+"
+36,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Face detection"", ""Facial analysis systems"", ""Facial recognition"", ""Emotion prediction"", ""Robustness"", ""Bias"", ""Perturbations"", ""Corruptions""],
+    ""Q4"": [""Facial analysis systems""]
+}"
+37,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""probabilistic circuits"", ""probabilistic inference"", ""probabilistic learning"", ""deep generative models"", ""tractable inference"", ""computational graphs"", ""Gaussian mixture models"", ""HMMs"", ""decision trees"", ""neural networks"", ""structural properties"", ""tractability"", ""scaling"", ""GPU"", ""robust image classification"", ""lossless compression"", ""missing values"", ""fairness certification"", ""scene understanding""],
+    ""Q4"": [""healthcare"", ""economical decision making"", ""image classification"", ""compression"", ""missing values"", ""fairness certification"", ""scene understanding""]
+}
+"
+44,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Radar"", ""Object detection"", ""Autonomous driving"", ""Weather conditions"", ""Deep learning"", ""4D Radar Tensor"", ""3D Bounding box"", ""Adverse weathers"", ""Urban"", ""Suburban roads"", ""Alleyways"", ""Highways"", ""Lidar"", ""Stereo cameras"", ""RTK-GPS""],
+    ""Q4"": [""Autonomous driving""]
+}
+"
+82,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Multi-Agent Reinforcement Learning (MARL)"", ""Partially Observable Markov Games (POMGs)"", ""Imperfect Information Extensive-Form Games (IIEFGs)"", ""Nash equilibria"", ""Correlated equilibria"", ""Coarse correlated equilibria"", ""Regret"", ""Optimal maximin policies""],
+    ""Q4"": [""Autonomous Driving""]
+}"
+84,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Extra-gradient"",""Optimistic Gradient"", ""Nonconvex Minimax"", ""OGDA"", ""EG"", ""NC-SC"", ""NC-C"", ""Generative Adversarial Networks"", ""GANs"", ""Robust neural networks""],
+    ""Q4"": ""None""
+}"
+86,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+  ""Q2"": ""Other aspects of adversarial machine learning"",
+  ""Q3"": [""Robust neural posterior estimation"", ""Statistical model criticism"", ""Simulation-to-reality gap"", ""Misspecification"", ""Inference"", ""Simulation models"", ""Model criticism"", ""Model misspecification""],
+  ""Q4"": [""Sciences""]
+}
+"
+93,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Outlier-Robust"", ""Sparse Estimation"", ""Non-Convex Optimization"", ""Robust Sparse Mean Estimation"", ""Robust Sparse PCA"", ""High-dimensional Statistics"", ""First-order method"", ""Stationarity""],
+    ""Q4"": ""None""
+}"
+94,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robustness"",""Dataset shift"",""Parametric Robustness Sets"",""Worst-case loss"",""Non-convex optimization"",""Computer Vision""],
+    ""Q4"": ""Computer vision""
+}"
+106,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robustness"", ""Graph Neural Diffusion"", ""Topology Perturbations"", ""Adversarial attacks"", ""Graph Neural Networks"", ""Partial Differential Equations"", ""Heat semigroup"", ""Graph diffusion operators"", ""Benchmark datasets""],
+    ""Q4"": ""None""
+}"
+107,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Input attribution"", ""Deep Neural Networks"", ""Gradient-based methods"", ""Integrated Gradients"", ""FullGrad"", ""Distilled Gradient Aggregation"", ""Input features"", ""Attribution methods"", ""Attribution heatmap""],
+  ""Q4"": ""Not clear""
+}"
+269,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Sequential data"", ""Variational autoencoders (VAEs)"", ""Controlled sequence generation"", ""Manipulation"", ""Structured representation learning"", ""Autoregressive decoders"", ""Latent space"", ""Posterior collapse""],
+    ""Q4"": ""Not Clear""
+}"
+115,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""reinforcement learning"", ""model misspecification"", ""policy optimization"", ""off-policy actor-critic"", ""max-min optimization"", ""worst-case performance""],
+  ""Q4"": [""real-world environment"", ""simulation environment"", ""MuJoCo environment"", ""multi-joint dynamics with contact""]
+}
+"
+126,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""3D-aware image synthesis"", ""generative adversarial network (GAN)"", ""volume rendering"", ""neural radiance field (NeRF)"", ""geometry-aware discriminator"", ""3D shapes"", ""2D image space"", ""geometry information"", ""multi-view consistency""],
+    ""Q4"": ""None""
+}
+"
+133,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Tree Mover's Distance (TMD)"", ""Graph Metrics"", ""Stability of Graph Neural Networks"", ""Non-Euclidean data"", ""Graph classification"", ""Generalization"", ""Distribution shifts"", ""Performance drop"", ""Pseudometric"", ""Attributed graphs"", ""Hierarchical optimal transport problem"", ""Local distribution"", ""Node attributes"", ""Distribution of local computation trees"", ""Graph neural networks (GNNs)""],
+  ""Q4"": ""None""
+}"
+161,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Time series synthesis"", ""Generative Adversarial Networks"", ""Data augmentation"", ""Regular time series"", ""Irregular time series""],
+    ""Q4"": [""None""]
+}"
+142,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""generative multitask learning"", ""causal representation learning"", ""unobserved confounders"", ""target shift"", ""robustness""],
+  ""Q4"": ""Not clear""
+}"
+143,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Submodular mutual information"", ""Data subset selection"", ""Distribution shift"", ""Domain adaptation"", ""Supervised domain adaptation"", ""Efficiency"", ""Robustness"", ""Subset selection framework""],
+    ""Q4"": None
+}
+"
+151,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Aleatoric Uncertainty"", ""Unsupervised Environment Design"", ""Reinforcement Learning"", ""Curriculum-induced covariate shift"", ""SAMPLR"", ""Minimax regret""],
+    ""Q4"": ""Not clear""
+}"
+153,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""behavioral metrics"", ""deep reinforcement learning"", ""representation learning"", ""RAP distance""],
+    ""Q4"": ""None""
+}"
+155,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Spiking Neural Networks"", ""Learnable thresholding"", ""Moderate Dropout"", ""Neuronal mechanisms"", ""Information flow"", ""Convergence"", ""Image classification"", ""Robustness""],
+    ""Q4"": [""None""]
+}"
+164,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Binarization"", ""Transformers"", ""Pre-trained models"", ""Resource-constrained environments"", ""Optimization"", ""Two-set binarization scheme"", ""Elastic binary activation function"", ""Distillation"", ""Accuracy""],
+    ""Q4"": [""GLUE language understanding benchmark""]
+}"
+168,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Non-stationarity"", ""Reinforcement learning"", ""Causality"", ""Factored adaptation"", ""Factored MDP"", ""Latent change factors""],
+    ""Q4"": ""None""
+}"
+174,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""shortcut learning"", ""predictive models"", ""distribution shifts"", ""out-of-distribution accuracy"", ""auxiliary labels""],
+  ""Q4"": ""None""
+}"
+178,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""supervised operator learning"", ""spatio-temporal dynamical systems"", ""black-box relationships"", ""functional data"", ""attention mechanism"", ""integral transform"", ""nonlinear operators"", ""universal expressiveness"", ""ordinary differential equations"", ""partial differential equations"", ""climate prediction problem"", ""out-of-distribution prediction tasks""],
+    ""Q4"": ""None""
+}"
+182,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Trojan attack"", ""Deep Neural Networks"", ""Reverse-engineering"", ""Trojan triggers"", ""Input space constraints"", ""Feature space triggers"", ""Feature space hyperplanes"", ""Trojaned model detection"", ""Trojan mitigation""],
+    ""Q4"": [""None""]
+}"
+187,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""single-life reinforcement learning"",""SLRL"",""out-of-distribution states"",""Q-weighted adversarial learning"",""QWALE"",""distribution matching""],
+    ""Q4"": ""Disaster Relief""
+}"
+191,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Randomized Controlled Trials (RCTs)"", ""causal effect estimation"", ""observational datasets"", ""validation effects"", ""meta-algorithm"", ""unobserved confounding"", ""selection bias"", ""hypothesis testing"", ""causal effect transportation"", ""doubly-robust estimator"", ""group average treatment effects"", ""machine learning methods"", ""nuisance parameters"", ""meta-analysis techniques""],
+    ""Q4"": ""None""
+}"
+197,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Test-time adaptation"", ""Distributional shift"", ""Temporal correlation"", ""Instance-Aware Batch Normalization"", ""Prediction-balanced Reservoir Sampling""], 
+    ""Q4"": ""None""
+}"
+200,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""generative modeling"", ""GANs"", ""Natural Language Generation"", ""maximum-likelihood"", ""sequential data"", ""text"", ""representational capacity"", ""KL-divergence"", ""distinguishability"", ""n-gram models"", ""neural networks"", ""softmax output layer"" ],
+    ""Q4"": ""None""
+}"
+211,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Dec-POMDPs"", ""equivariant network architecture"", ""zero-shot coordination"", ""symmetry breaking"", ""Hanabi benchmark""],
+    ""Q4"": [""AI benchmark task""]
+}"
+212,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Positive-Unlabeled Learning"",""Random Forests"",""Recursive Greedy Risk Minimization""], 
+    ""Q4"": ""Not clear""
+}"
+232,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Out-of-distribution generalization"", ""Transfer learning"", ""Calibration"", ""Adversarial robustness"", ""Algorithmic corruptions"", ""Invariance""],
+    ""Q4"": ""None""
+}
+"
+233,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""NLP benchmarking"", ""Machine Learning"", ""Large pre-trained models"", ""GPT"", ""BERT"", ""Social choice theory"", ""Aggregation procedure"", ""Performance measures"", ""Ranking systems"", ""Synthetic and real scores""],
+    ""Q4"": ""Not clear""
+}"
+242,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Certified robustness"", ""Statistical learning"", ""Logical reasoning"", ""Markov logic networks"", ""Computational complexity""],
+    ""Q4"": ""Not clear""
+}"
+245,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""variational autoencoder"", ""Riemannian structure"", ""Latent space"", ""Generative Models"", ""Interpolations"", ""Sampling method""], 
+    ""Q4"": ""None""
+}"
+249,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""gradient descent"", ""first-order optimization"", ""objective functions"", ""complexity classes"", ""condition number"", ""strong convexity"", ""smoothness"", ""lower restricted secant inequality"", ""upper error bound"", ""non-convex functions"", ""performance estimation problem"", ""convergence rate""],
+    ""Q4"": ""None""
+}"
+259,"{
+""Q1"": ""None"",
+""Q2"": ""None"",
+""Q3"": [""deep learning"", ""neuroscience"", ""brain circuits"", ""grid cells"", ""entorhinal-hippocampal circuit"", ""hyperparameter sweeps"", ""inductive bias""],
+""Q4"": [""neuroscience""]
+}"
+264,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""None"",
+    ""Q3"": [""Stochastic"", ""Adaptive"", ""Activation Function"", ""Deep Neural Networks"", ""Threshold potential"", ""Neurons"", ""Transmission mechanisms"", ""Variability"", ""Swish activation function"", ""Classification"", ""Detection"", ""Segmentation"", ""Image generation""],
+    ""Q4"": ""None""
+}"
+279,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Other aspects of adversarial machine learning"",
+  ""Q3"": [""World models"", ""Sample-efficiency"", ""Simulated environments"", ""Inductive bias"", ""Sparse interactions"", ""Latent dynamics"", ""Variational sparse gating"", ""Stochastic binary gates"", ""Partial observability""],
+  ""Q4"": ""None""
+}"
+286,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""3D content creation"", ""stylization"", ""photorealistic appearance"", ""Contrastive Language-Image Pre-training (CLIP)"", ""bidirectional reflectance distribution function"", ""differentiable renderer""],
+    ""Q4"": []
+}"
+297,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Bayesian Optimization"", ""Pathwise Exploration"", ""black-box functions"", ""droplet microfluidic reactors"", ""Sequential Bayesian Optimization"", ""Adaptive Connecting Samples"", ""SnAKe"", ""regret"", ""synchronous"", ""asynchronous"", ""input costs""],
+    ""Q4"": [""Chemistry""]
+}"
+302,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+  ""Q2"": ""Specific adversarial defence methods"", 
+  ""Q3"": [""deepfake detection"", ""generalization"", ""test-time training"", ""meta-learning"", ""robustness"", ""post-processing""], 
+  ""Q4"": ""None""
+}
+"
+317,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Deep equilibrium models (DEQs)"", ""Adversarial robustness"", ""Deep networks"", ""Fixed point"",""Empirical robustness"", ""Adversarially trained DEQs"",""Gradient obfuscation"",""Intermediate gradients""], 
+    ""Q4"": ""None""
+}
+"
+320,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""uncertainty quantification"", ""distribution shift"", ""multi-domain temperature scaling"", ""calibration"", ""machine learning""],
+    ""Q4"": None
+}
+"
+321,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Variational Autoencoders"", ""Deterministic Autoencoders"", ""Adversarially robust"", ""Regularization"", ""Two-point Kolmogorov-Smirnov test""],
+    ""Q4"": ""None""
+}"
+334,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Multi-resolution functional maps"",
+        ""Spectral attention"",
+        ""Robust shape matching"",
+        ""Functional map learning"",
+        ""Spectral resolution tuning"",
+        ""Non-rigid shape matching""
+    ],
+    ""Q4"": ""None""
+}"
+335,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Multi-instance learning"", ""Instance label prediction"", ""Out-of-distribution generalization"", ""Causal representation"", ""Identifiable variational autoencoder""], 
+    ""Q4"": ""None""
+}"
+338,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Point Cloud Completion"", ""Segmentation"", ""Generative Adversarial Autoencoding Network"", ""Unsupervised learning"", ""CAD models"", ""Latent codes"", ""Discriminator"", ""Encoder""],
+    ""Q4"": ""None""
+}"
+339,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Graph Neural Networks"", ""homophily changes"", ""graph structural attacks"", ""generalizing to graphs of varied homophily levels"", ""spectral domain"", ""EvenNet"", ""even-polynomial graph filter"", ""node classification tasks""],
+  ""Q4"": ""None""
+}
+"
+341,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""unsupervised"", ""generative model"", ""adversarial loss"", ""binary regularization"", ""disentanglement"", ""segmentation"", ""image composition"" ],
+    ""Q4"": ""None""
+}
+"
+377,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Robustness"", ""Sequence Modeling"", ""Machine Learning"", ""Distribution Shift"", ""Discrete Data"", ""Natural Language Processing"", ""Healthcare"", ""Computational Biology"", ""Finance""],
+    ""Q4"": [""Natural Language Processing"", ""Healthcare"", ""Computational Biology"", ""Finance""]
+}"
+392,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Machine Learning Safety"", ""Robustness"", ""Monitoring"", ""Alignment"", ""Systemic Safety""],
+    ""Q4"": ""Not Clear""
+}"
+412,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robustness"",""Social implications"",""Real-world robotics applications"",""Trustworthy Robotics"",""Machine Learning"",""Robotics research""],
+    ""Q4"": [""Transportation"",""Healthcare"",""Manufacturing""]
+}"
+427,"{
+""Q1"": ""None"",
+""Q2"": ""None"",
+""Q3"": [""3D object detection"", ""Voxel-based representation"", ""Transformer"", ""Multi-modality"", ""Knowledge transfer"", ""Modality fusion"", ""Point clouds"", ""Images""],
+""Q4"": [""Automotive""]
+}"
+430,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Out-of-Distribution Generalization"", ""Adversarial Training"", ""Structured Priors"", ""Deep models"", ""OOD performance"", ""Transferability"", ""Universal AT"", ""Empirical Risk Minimization""],
+    ""Q4"": ""None""
+}"
+432,"{
+ ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Vision transformer"", ""Compression"", ""Low-frequency components"", ""Pruning"", ""Self-attention"", ""ImageNet-1K""],
+ ""Q4"": ""None""
+ }
+"
+435,"{
+    ""Q1"": ""Poisoning attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Backdoor attack"", ""Pre-trained Language Models"", ""Natural Language Processing"",""Moderate-fitting"",""Backdoor-free adaptation"",""Model capacity"",""Training epochs"",""Learning rate"",""Visualization-based analysis"",""Poisoning ratio"",""CV model""],
+    ""Q4"": ""N/A""
+}"
+439,"{
+  ""Q1"": ""None"", 
+  ""Q2"": ""Specific adversarial defence methods"", 
+  ""Q3"": [""multi-agent reinforcement learning"", ""behavioral diversity"", ""Unified Diversity Measure (UDM)"", ""Fictitious Play (FP)"", ""Policy Space Response Oracle (PSRO)"", ""Nash equilibrium""], 
+  ""Q4"": ""None""
+}"
+455,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Adversarial examples"", ""Pre-trained models"", ""Robustness"", ""Security"", ""Self-supervised pre-training"", ""Downstream tasks"", ""Perturbations"", ""Low-level layers"", ""Noise augmentation"", ""Attack success rate""],
+    ""Q4"": ""None""
+}"
+446,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Fourier Occupancy Field (FOF)"", ""monocular human reconstruction"", ""3D geometry representation"", ""2D field"", ""Fourier series"", ""2D convolutional neural networks"", ""parametric models"", ""meshes"", ""real-time"", ""high-fidelity""],
+""Q4"": ""None""
+}"
+449,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Federated Learning"", ""Personalization"", ""Communication efficiency"", ""Robustness"", ""Fairness"", ""Adversarial attacks"", ""Reference model"", ""Local models"", ""Projection dimension"", ""Convergence""],
+    ""Q4"": ""None""
+}
+"
+452,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Black-box attack"", ""Deep neural networks"", ""Adversarial examples"", ""Shallow layers"", ""Error TransFormer"", ""Approximation error"", ""Parameter space"", ""Feature space""],
+    ""Q4"": ""None""
+}"
+457,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust feature representations"", ""Multi-dataset Training"", ""Transformers"", ""Action Recognition"", ""Informative loss"", ""Projection loss""],
+    ""Q4"": [""Video action recognition""]
+}"
+464,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Information Bottleneck"", ""Gaussian Process"", ""retina"", ""latent variables"",""spike responses"",""natural stimuli"",""early visual system"",""high-dimensional stimuli"",""feature representation"",""closed-loop iterative process"",""embeddings"",""latent space""],
+    ""Q4"": [""Retina""]
+}"
+471,"{
+ ""Q1"": ""Model extraction attack"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Model fingerprinting"", ""Model stealing"", ""Sample Correlation"", ""Adversarial defense"", ""Transfer learning""],
+ ""Q4"": ""None""
+}
+"
+472,"{
+ ""Q1"": ""None"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Adversarial Training"", ""Discrete Adversarial Training"", ""VQGAN"", ""Image Classification"", ""Object Detection"", ""Self-supervised Learning"", ""Masked Auto-Encoding"", ""ImageNet-C"", ""Stylized-ImageNet""],
+ ""Q4"": None
+}"
+475,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""infomin learning"",""adversarial training"",""slicing techniques"",""mutual information"",""algorithmic fairness"",""disentangled representation learning"",""domain adaptation""], 
+    ""Q4"": ""None""
+}"
+476,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Vision Transformers"", ""Adversarial training"", ""Pre-training"", ""SGD optimizer"", ""Architectural components"", ""Attention blocks"", ""Patches""],
+    ""Q4"": ""None""
+}"
+478,"{
+    ""Q1"": ""Model extraction attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""model extraction"", ""membership inference"", ""Machine Learning as a Service (MLaaS)"", ""attack surface"", ""confidentiality"", ""PAME"", ""MI Pre-Filter"", ""MI Post-Filter"", ""semi-supervised boosting""], 
+    ""Q4"": ""Not clear""
+}"
+482,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Perceptual organization"",
+        ""Convolutional Neural Network (CNN)"",
+        ""Figure-ground assignment"",
+        ""Visual ambiguity"",
+        ""Supervisory signals"",
+        ""Configural cues"",
+        ""Convexity"",
+        ""Lower region"",
+        ""Interactive Enhancement Module (IEM)"",
+        ""Real-world applications""
+    ],
+    ""Q4"": ""None""
+}"
+494,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Adversarial attacks"",
+        ""Deep neural networks"",
+        ""Robustness"",
+        ""Dynamic system"",
+        ""Asymptotic stability"",
+        ""Nonautonomous dynamical system""
+    ],
+    ""Q4"": ""None""
+}"
+500,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Monte Carlo integration"", ""counting problems"", ""machine learning"", ""statistical physics"", ""randomized approximation schemes"", ""algebraic proof system"", ""computational complexity theory"", ""permanent of zero-one matrices"", ""model count of disjunctive normal form formulas"", ""gradient of logistic regression models"", ""verifiable approximation schemes"" ],
+    ""Q4"": ""None""
+}"
+548,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Byzantine-tolerant"",
+        ""federated learning"",
+        ""streaming data"",
+        ""Gaussian process regression"",
+        ""latent function"",
+        ""Byzantine attacks"",
+        ""prediction error"",
+        ""predictive variance""
+    ],
+    ""Q4"": [""None""]
+}"
+699,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""adversarial data"", ""conformal prediction"", ""sequential prediction"", ""empirical coverage"", ""feature space"", ""threshold-calibrated prediction sets"", ""MultiValid Prediction (MVP)""],
+    ""Q4"": ""Not clear""
+}
+"
+526,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""multi-fidelity fusion"", ""autoregression"", ""tensor formulation"", ""latent features"", ""autokrigeability"", ""predictive mean accuracy"", ""complex systems"", ""simulations"", ""surrogate""],
+    ""Q4"": [""Scientific research"",""Engineering""]
+}"
+527,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Generative Adversarial Network"", ""Transfer learning"", ""One-shot adaptation"", ""Style transfer"", ""Entity transfer"", ""Sliced Wasserstein distance"", ""Variational Laplacian regularization""],
+    ""Q4"": ""None""
+}"
+530,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Graph Neural networks (GNNs)"", ""Noisy topology"", ""local topology refinement"", ""pairwise propagation weight learning"", ""multi-channel extension"", ""overfitting"", ""Orthogonal Propagation"", ""Ego-Network modeling"", ""dimension reduction"", ""principal components""],
+    ""Q4"": ""None""
+}
+"
+533,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Grounded Reinforcement Learning"",""Human commands"",""Real-time strategy game"",""Reinforcement learning"",""Behavior cloning"",""Grounding tasks"",""Constrained RL objective"",""REinforced demonstration Distillation"",""MiniRTS""],
+    ""Q4"": ""None""
+}
+"
+546,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Reinforcement Learning"", ""Visual Reinforcement Learning"", ""Image Encoder"", ""Generalizable visual reinforcement learning"", ""Pre-trained Image Encoder"", ""Off-the-shelf visual representation"", ""ResNet model"", ""DMControl Generalization Benchmark"", ""DMControl Manipulation Tasks"", ""Drawer World"", ""CARLA""],
+    ""Q4"": [""Video background""]
+}"
+887,"{
+ ""Q1"": ""Another type of attack"", 
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Differential privacy"", ""Randomized SGD"", ""Composition theorems"", ""Renyi DP bounds"", ""Noisy stochastic gradient descent"", ""Privacy amplification"", ""Sub-sampling"", ""Randomized post-processing""],
+ ""Q4"": ""None""
+}"
+570,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""label-invariant augmentation"", ""graph classification"", ""contrastiveness-based augmentation"", ""graph contrastive learning"", ""graph neural network""],
+    ""Q4"": ""None""
+}"
+629,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Image restoration"", ""Object detection"", ""Adversarial attack"", ""ADAM-like adversarial attack"", ""Dehazing"", ""Low light enhancement"", ""Domain adaptation"", ""Multi-task learning""],
+    ""Q4"": ""Not clear""
+}
+"
+573,"{
+    ""Q1"": ""Another type of attack"", 
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""backdoor attacks"",""prompt-based learning"",""NLP"",""continuous prompts"",""few-shot scenarios"",""security problems"",""vulnerability"",""BadPrompt"",""lightweight"",""task-adaptive algorithm"",""candidate triggers"",""targeted label"",""non-targeted labels"",""adaptive trigger optimization algorithm""],
+    ""Q4"": ""None""
+}"
+582,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Fair robust learning"", ""Adversarial training"", ""Classwise accuracy"", ""Robustness discrepancies"", ""Attack robustness"", ""Bias""],
+    ""Q4"": ""Not clear""
+}"
+584,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Generalization"",""Image-based Reinforcement Learning"", ""Spectrum Random Masking"", ""Data Diversity"", ""Augmentations"", ""Frequency Domain""],
+    ""Q4"": ""RL Tasks""
+}
+"
+595,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Model inversion attack"", ""Interpretable models"", ""Deep neural networks"", ""Explainable AI"", ""Information leakage"", ""Generative Noise Injector for Model Explanations (GNIME)"", ""Minimax game"", ""Inversion attack network"", ""Noise generator network"", ""Facial recognition models""],
+    ""Q4"": ""None""
+}
+"
+621,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial defense"", ""Adversarial examples"", ""Adversarial transferability"", ""Deep neural networks"", ""Random Normalization Aggregation"", ""RNA"", ""Normalization layers""],
+    ""Q4"": None
+}
+"
+600,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Differentiable architecture search (DARTS)"", ""Zero-order optimization"", ""Neural Architecture Search (NAS)"", ""Gradient descent algorithm"", ""Loss landscape"", ""Gradient estimation"", ""Robustness"", ""Instability issue""],
+    ""Q4"": ""None""
+}"
+601,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""pre-trained language models"", ""efficiency"", ""generalization"", ""out-of-distribution"", ""subnetworks"", ""dataset bias"", ""performance"", ""compression methods""],
+    ""Q4"": ""Natural Language Understanding""
+}"
+605,"{
+""Q1"": ""Evasion attack"",
+""Q2"": ""Specific adversarial attack methods"",
+""Q3"": [""Adversarial attacks"", ""Multi-object scenes"", ""Generative models"", ""CLIP"", ""Vision-language model"", ""Perturbation generators"", ""Transferable perturbations"", ""Black-box settings"", ""Victim classifiers"", ""Misclassification""],
+""Q4"": None
+}
+"
+611,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Factored Distributionally Robust Optimization (Factored-DRO)"", ""environmental process"", ""distribution shifts"", ""context distribution"", ""reward generating process"", ""Factored-DRO objective"", ""estimators"", ""consistent"", ""converge asymptotically"", ""algorithm"", ""empirical results"", ""voting outcomes"", ""scene classification""],
+    ""Q4"": [""real-world datasets""]
+}"
+631,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Adversarial training"",""Robust machine learning"",""Phase transition"",""Linear regression"",""Deep neural networks""],
+    ""Q4"":""Not clear""
+}"
+632,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""adversarial training"", ""domain generalization"", ""semantic segmentation"", ""style augmentation"", ""channel-wise mean and standard deviation"", ""adversarial style feature"", ""adversarial image"", ""image classification"", ""overfitting"", ""robust model training""],
+    ""Q4"": ""Urban-Scene Segmentation""
+}
+"
+637,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Monocular depth estimation"", ""Deep neural networks"", ""Image-level normalization"", ""Hierarchical normalization"", ""Multi-scale depth normalization"", ""Spatial information"", ""Depth distributions"", ""Fine-grained details"", ""Accuracy"" ],
+    ""Q4"": ""None""
+}"
+661,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Bayesian Risk Markov Decision Processes"", ""parameter uncertainty"", ""MDPs"", ""risk functional"", ""Bayesian posterior distributions"", ""conditional value-at-risk"", ""CVaR"", ""approximation algorithm"", ""gambler's betting problem"", ""inventory control problem""],
+    ""Q4"": ""Not Clear""
+}"
+663,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Out-of-distribution detection"", ""Deep models"", ""OOD data"", ""Classification model"", ""Watermarking"", ""Feature perturbation""],
+  ""Q4"": ""Not clear""
+}"
+664,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""deep neural networks"", ""dataset ownership verification"", ""poison-only backdoor watermarks"", ""untargeted backdoor watermark"", ""poisoned-label"", ""clean-label""],
+    ""Q4"": ""None""
+}"
+669,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""adversarial training"", ""unlabeled data"", ""attack strength"", ""quality of unlabeled data"", ""adversarial robustness"", ""generated data"", ""real data"", ""algorithm"", ""online adjustment"", ""weight""],
+    ""Q4"": ""None""
+}"
+697,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Finite-sum minimax optimization"", ""Stochastic gradient algorithms"", ""Smooth and strongly convex-strongly concave"", ""Proximal point method"", ""Random Reshuffling"", ""Single Shuffling"", ""Shuffle Once"", ""Uniform sampling"", ""Nonconvex-nonconcave objectives"", ""Polyak-Lojasiewicz inequality"", ""Data-ordering attacks"", ""Incremental gradient method""],
+    ""Q4"": ""None""
+}
+"
+703,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Synchronous training"", ""Asynchronous training"", ""Recommendation models"", ""Parameter server"", ""All-reduce"", ""Cluster status"", ""Hyper-parameter tuning"", ""Gradient values"", ""Stale gradients"", ""Global Batch gradients Aggregation"", ""Token-control"", ""Convergence analysis"", ""Robustness"", ""Industrial-scale recommendation tasks"", ""AUC metric"", ""Hardware resource"", ""Speed up"" ],
+    ""Q4"": [""Recommendation models""]
+}
+"
+705,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Abstract reasoning"", ""Logic rules"", ""Unsupervised learning"", ""Rule representations"", ""Internal inferences"", ""Reasoner"", ""Referrer"", ""PGM"", ""I-RAVEN""],
+""Q4"": [""None""]
+}"
+718,"{
+    ""Q1"": ""Another type of attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Lattice cryptography"", ""quantum resistant"", ""Learning With Errors (LWE)"", ""Modular arithmetic"", ""Transformer"", ""Machine learning attack""], 
+    ""Q4"": [""Cryptography""]
+}
+"
+709,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""u-HuBERT"", ""Mixed-Modal Speech Pretraining"", ""Zero-Shot Transfer"", ""Unlabeled Modality"", ""audio-visual speech"", ""masked cluster prediction"", ""modality dropout"", ""speech recognition"", ""word error rate""],
+    ""Q4"": [""Speech Processing""]
+}"
+710,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""LogiGAN"", ""Logical Reasoning"", ""Adversarial Pre-training"", ""Language models"", ""Automatic identification"", ""Logical statements"", ""Generator-Verifier architecture"", ""Sequential GAN"", ""Pre-training"", ""Target length"", ""Reasoning abilities"", ""Ablation studies""],
+    ""Q4"": ""None""
+}"
+721,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Online Minimax Multiobjective Optimization"", ""Multicalibeating"",""Regret"",""Adversary"",""Vector-valued game"",""Minimax theorem"",""Algorithm"",""Optimal bounds"",""Efficient algorithms"",""Blackwell's approachability theorem"",""Forecasters""],
+    ""Q4"": ""None""
+}"
+722,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial machine learning"",""Generative Adversarial Networks (GANs)"", ""Data privacy"", ""Confounder property"", ""Spurious correlation"", ""Transferability"", ""Stability""],
+    ""Q4"": [""Image classification"", ""Natural object datasets"", ""Medical datasets""]
+}"
+724,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""rent division"", ""envy-free"", ""fairness"", ""robustness"", ""lexislack solution"", ""valuations"", ""radius"", ""probability distribution"", ""learning theory"", ""integer linear programming""],
+    ""Q4"": [""Roommates""]
+}"
+728,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Transformer"",""Tracking"",""CNN"",""Siamese"",""Robustness"",""Motion token"",""Temporal context"",""SUC score"",""Baseline""], 
+    ""Q4"": ""None""
+}
+"
+729,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Inverse reinforcement learning"", ""Receding Horizon"", ""high-dimensional"", ""noisy"", ""continuous systems"", ""black-box dynamic models"", ""scalability"", ""robustness"", ""stitching"", ""curse of dimensionality"", ""state-dependent cost function"", ""disentangled"", ""benchmark tasks"", ""cumulative error"", ""task duration""],
+    ""Q4"": ""None""
+}"
+755,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust learning"", ""Multiclass setting"", ""Probably Approximately Correct (PAC) learning"", ""Adversarial graph dimension (AG-dimension)"", ""Adversarial Natarajan dimension (AN-dimension)"", ""Sample complexity"", ""Linear multiclass predictors""],
+    ""Q4"": ""None""
+}"
+752,"{
+""Q1"": ""Another type of attack"", 
+""Q2"": ""Specific adversarial attack methods"", 
+""Q3"": [""Recommender systems"", ""Injective attacks"", ""Fake user budget"", ""Open platforms"", ""Target item"", ""Difficulty-agnostic"",""Diversity-deficit"", ""Difficulty-aware"", ""Diversity-aware"", ""DADA""], 
+""Q4"": ""None""
+}"
+760,"{
+  ""Q1"": ""Poisoning attack"", 
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""backdoor attack"", ""convolutional neural networks (CNN)"", ""poisoned samples"", ""backdoor neurons"", ""pre-activation distributions"", ""differential entropy"", ""Kullback-Leibler divergence"", ""benign sample distribution"", ""poisoned statistics""],
+  ""Q4"":""None""
+}
+"
+778,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Kernel Memory Networks"", ""Memory Modeling"", ""Noise robustness"", ""Neuron classification"", ""Interpolation"", ""Feed-forward networks"", ""Recurrent networks"", ""Hopfield networks"", ""Kanerva's model"", ""Storage capacity"", ""Dendritic non-linearities"", ""Synaptic cross-talk""], 
+    ""Q4"": ""None""
+}"
+783,"{
+    ""Q1"": ""Data extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""collaborative inference systems"", ""reconstruction attacks"", ""defense countermeasures"", ""latent privacy features"", ""obfuscated representations"", ""Sensitive Feature Distillation (SFD)""],
+    ""Q4"": None
+}"
+790,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Mixup"", ""Regularizer"", ""Accuracy"", ""Out-of-distribution robustness"", ""Predictive uncertainty estimation"", ""Covariate shifts"", ""OOD detection"", ""High-entropy"", ""In-distribution samples"", ""Out-of-distribution samples"", ""RegMixup"", ""Vision datasets"", ""ImageNet"", ""CIFAR-10/100"", ""Uncertainty estimation""],
+    ""Q4"": [""Vision""]
+}
+"
+793,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""lifelong learning"", ""neural networks"", ""predictive coding"", ""catastrophic forgetting"", ""Sequential Neural Coding Network"", ""back-propagation"", ""neurocognitive theory"", ""biologically-plausible"", ""basal ganglia"", ""self-organizing system"", ""SplitMNIST"", ""Split Fashion MNIST""],
+    ""Q4"": ""None""
+}
+"
+818,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Statistical online inference"",
+        ""Averaged stochastic approximation"",
+        ""Stochastic gradient descent"",
+        ""Q-learning"",
+        ""Markov chain"",
+        ""Functional central limit theorem"",
+        ""Confidence intervals"",
+        ""Random scaling"",
+        ""Inference methods""
+    ],
+    ""Q4"": ""None""
+}"
+821,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Averaging"", ""merging"", ""models"", ""Fisher-Weighted"", ""likelihood"", ""posteriors"", ""Laplace approximation"", ""Fisher information"", ""fine-tuning"", ""model ensembling"", ""transfer learning"", ""domain-adaptive pre-training""],
+    ""Q4"": []
+}"
+825,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [
+        ""controlled sparsity"",
+        ""constrained optimization"",
+        ""sparse learning"",
+        ""sparsity-inducing penalties"",
+        ""gate mechanism"",
+        ""end-to-end fashion""
+    ],
+    ""Q4"": []
+}
+"
+826,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Drawing out of Distribution"", ""Neuro-Symbolic Generative Models"", ""Perceptual inputs"", ""Human intelligence"", ""Stroke-based drawing"", ""Unsupervised amortized inference"", ""Symbolic stroke model"", ""Interpretability"", ""Generalization"", ""Zero-shot transfer"", ""MNIST"", ""Quickdraw"", ""Omniglot"", ""One-shot classification"", ""Concept-learning systems"" ],
+    ""Q4"": ""None""
+}"
+837,"{
+    ""Q1"": ""Backdoor attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""backdoor attack"", ""deep neural networks"", ""anti-backdoor learning"", ""poisoning attack"", ""adaptive attack"", ""piece-wise linear functions"", ""training method"", ""attack success rate"", ""poisoning backdoor attack"", ""natural backdoor attack""],
+    ""Q4"": ""None""
+}"
+839,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial Decision Making"", ""Online Learning"", ""Decision Making"", ""Bandits"", ""Reinforcement Learning"", ""Modeling Assumptions"", ""Sample-efficient Learning"", ""Decision-Estimation Coefficient"", ""Regret"", ""Convex Hull"", ""Model Class"", ""Information Ratio"", ""Exploration-by-Optimization""],
+    ""Q4"": ""None""
+}
+"
+840,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Distributionally robust optimization"", ""Non-convex optimization"", ""Decision making"", ""Facility location"", ""Security games"", ""Variance regularized form"", ""Mixed-integer second-order cone program"", ""Clustering"", ""Stratified sampling"", ""Global optimality guarantees""],
+    ""Q4"": None
+}
+"
+845,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Uncertainty estimation"",""multi-view data"",""classification framework"",""out-of-domain sample detection"",""classifier"",""expected calibration error"",""robustness to noise"",""accuracy""],
+  ""Q4"": [""real-world datasets""]
+}"
+853,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial attack methods"",
+  ""Q3"": [""Adversarial attacks"", ""Computer vision"", ""Pixel-level perturbations"", ""Latent representations"", ""Image generators"", ""Interpretable adversarial attacks"", ""Targeted"", ""Universal"", ""Disguised"", ""Physically-realizable"", ""Black-box attacks"", ""ImageNet scale"", ""Practical interpretability tool"", ""Spurious associations"", ""Features"", ""Classes"", ""Copy/paste attacks"", ""Targeted misclassification"", ""Rigorous interpretability research"", ""Model understanding"", ""Diagnose brittle feature associations""],
+  ""Q4"": ""None""
+}"
+857,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Generative Adversarial Networks"", ""Multiple Specialized Discriminators"", ""Mode collapse problem"", ""Multiple choice learning"", ""Latent data space"", ""Real data space""], 
+    ""Q4"": ""None""
+}"
+858,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""nonstationary"",""dual averaging"",""online fair allocation"",""PACE algorithm"",""competitive equilibrium"",""large-scale systems"",""adversarially-corrupted stochastic input"",""ergodic input"",""block-independent input"",""periodic input"",""fair allocation""],
+    ""Q4"": ""None""
+}
+"
+861,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": ""Semantic segmentation, annotation costs, unsupervised segmentation, language-image pre-training, CLIP, image representations, zero-shot transfer, concept names, pixel labels, specialist segmenters, extremely rare objects"",
+    ""Q4"": ""None""
+}
+"
+862,"{
+    ""Q1"":""None"",
+    ""Q2"":""Specific adversarial defence methods"",
+    ""Q3"":[""repeated first-price auctions"", ""digital advertising"", ""bid prediction"", ""machine learning"", ""minimax regret bounds"", ""sparsity""],
+    ""Q4"":""None""
+}
+"
+863,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Learned optimizers"",""neural networks"",""machine learning models"",""meta-training"",""dynamical systems"",""optimization algorithms"",""inductive biases"",""blackbox optimizers"",""noisy quadratic model"",""eigenvalues"",""training dynamics"",""architecture"",""meta-training procedure"",""optimization performance"",""generalization""],
+    ""Q4"": ""None""
+}"
+869,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""heterogeneous environments"", ""data-driven decision-making"", ""worst-case regret"", ""Sample Average Approximation"", ""rate-optimal"", ""heterogeneity ball"", ""distributionally robust optimization""],
+    ""Q4"": ""None""
+}"
+876,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust Individualized Decision Learning"",""Sensitive Variables"", ""Decision Learning Framework"", ""Causal perspective"", ""Quantile-optimal decision rule"", ""Infimum-optimal decision rule""],
+    ""Q4"": [""Real-world applications""]
+}"
+884,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""mechanism design"", ""machine learning"", ""multi-item settings"", ""revenue preservation"", ""truthful multi-item"", ""multi-bidder auctions"", ""limited supply"", ""random unknown fraction"", ""population participation"", ""market shrinkage"", ""market uncertainty"", ""combinatorial construction"", ""winner diagram"", ""probabilistic analysis"", ""possibility result"", ""limited number of winners"", ""efficiently learn an auction""], 
+    ""Q4"": [""Industries""]
+}"
+889,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Spiking neural networks"", ""Local Tandem Learning"", ""Teacher-student learning"", ""CIFAR-10"", ""CIFAR-100"", ""Tiny ImageNet"", ""Neuromorphic computing chips""],
+    ""Q4"": [""Analog computing substrates"", ""Ultra-low-power mixed-signal""]
+}"
+894,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Sketching"", ""Representations"", ""Robust Image Classification"", ""Provable Guarantees"", ""Synthetic Images"", ""Thresholded Polynomial Functions"", ""Ellipses"", ""Rectangles"", ""Latent Attributes"", ""Similarity Preservation"", ""Indexing"", ""Concepts"", ""Shapes""],
+    ""Q4"": []
+}"
+915,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Instance segmentation"", ""Embedding learning"", ""Discriminative query"", ""Transformation equivariance"", ""Robustness""],
+    ""Q4"": ""Not clear""
+}"
+916,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness"", ""Ensemble methods"", ""Synergy-of-Experts (SoE)"", ""Vulnerability area""],
+    ""Q4"": ""None""
+}"
+922,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Unsupervised"", ""Movable object segmentation"", ""Detection"", ""Foreground objects"", ""Salient object detection"", ""Self-supervised features"", ""Inpainting network"", ""Adversarial training""],
+    ""Q4"": [""None""]
+}"
+937,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Untargeted Graph Structure Attacks"", ""Gradient Debias"", ""Cross-entropy loss"", ""node-level classification models"", ""attack objective"", ""budget allocation"", ""gray-box poisoning attack""],
+    ""Q4"": ""None""
+}"
+1012,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robustness"", ""Visual classification models"", ""Relevancy signal"", ""Foreground object"", ""Foreground mask"", ""Vision Transformer"", ""domain-shifts""],
+    ""Q4"": ""None""
+}"
+940,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Reproducibility"", ""Counterfactual Generative Networks"", ""CGN"", ""High-quality counterfactual images"", ""Disentangling"", ""Shape"", ""Texture"", ""Background"", ""Independent mechanisms"", ""Jointly optimizing"", ""Out-of-distribution performance"", ""Invariance"", ""Classifiers""], 
+    ""Q4"": [""Large-scale dataset"", ""Computational cost"", ""1080 Ti GPUs"", ""PyTorch""]
+}"
+942,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Deepfake detection"", ""Local low-level cues"", ""Temporal information"", ""Post-processings"", ""Transformer-based"", ""Local Sequence Transformer"", ""3D filters"", ""Contrastive way""],
+  ""Q4"": [""Video""]
+}"
+943,"{
+ ""Q1"": ""None"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Transformer architecture"", ""Graph-structured data"", ""Node sampling"", ""Graph transformers"", ""Graph neural networks"", ""Graph coarsening"", ""Attention weights"", ""Adversary bandit problem""],
+ ""Q4"": ""Not clear""
+}"
+950,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""CyCLIP"",""contrastive representation learning"",""paired image-text data"",""CLIP"",""zero-shot classification"",""distributional robustness"",""joint reasoning"",""image and text representation spaces"",""downstream inference tasks"",""consistency"",""geometrically consistent"",""image and text space"",""cross-modal consistency"",""in-modal consistency"",""zero-shot classification benchmarks"",""CIFAR-10"",""CIFAR-100"",""ImageNet1K"",""robustness"",""natural distribution shifts""],
+    ""Q4"": []
+}"
+954,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""transient redundancy elimination"", ""convolutional neural networks"", ""CNN"", ""TREC"", ""resource-constrained devices"", ""redundancy detection"", ""redundancy avoidance"", ""CNN architecture"", ""backward propagation""],
+    ""Q4"": ""None""
+}"
+958,"{
+""Q1"": ""Evasion attack"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Federated Learning"", ""Adversarial Robustness"", ""Federated Adversarial Training"", ""Label Skewness"", ""Training Instability"", ""Calibrated Federated Adversarial Training""],
+""Q4"": [""Real-world applications""]
+}"
+959,"{
+""Q1"": ""Another type of attack"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [ ""machine unlearning"", ""Randomized Gradient Smoothing"", ""Quantization"", ""Certified Machine Unlearning"", ""Certified robustness"", ""classification"", ""Certified radius"", ""data change"", ""data removals"", ""Certified budget"" ],
+""Q4"": [""Right to be forgotten""]
+}"
+986,"{
+    ""Q1"":""None"",
+    ""Q2"":""Specific adversarial defence methods"",
+    ""Q3"":[""Manifold Attention Network"",""EEG Decoding"",""Deep-learning"",""Geometric Learning"",""Brain-computer interfaces"",""Riemannian symmetric positive definite"", ""SPD"",""EEG features"",""non-stationarity of brain dynamics""],
+    ""Q4"":""None""
+}"
+972,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Byzantine Spectral Ranking"",""Rank-Centrality"","" Bradley-Terry-Luce (BTL) model"","" pairwise comparisons"","" malicious Byzantine voters"",""Rank-Centrality algorithm"",""Byzantine Spectral Ranking Algorithm""],
+    ""Q4"": ""None""
+}"
+988,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""map of elections"", ""vote distributions"", ""frequency matrix"", ""skeleton map"", ""robustness"", ""preference learning""],
+    ""Q4"": ""None""
+}"
+975,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Neural Tangent Kernel"", ""Adversarial robustness"", ""Neural networks"", ""Kernel methods"", ""Deep learning""], 
+    ""Q4"": ""Not clear""
+}
+"
+979,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Unpaired image-to-image translation"", ""Generative Adversarial Networks (GANs)"", ""Cycle-consistency loss"", ""Cycle-Consistent Adversarial Network (CycleGAN)"", ""Density estimation"", ""Translation errors"", ""Regularization conditions"", ""Cycle-consistency"", ""Reconstruction error"", ""Discrepancy""],
+  ""Q4"": ""None""
+}"
+992,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""algorithm design"", ""prediction"", ""online learning"", ""bipartite matching"", ""ski-rental"", ""page migration"", ""job scheduling""],
+    ""Q4"": ""None""
+}"
+995,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""None"", 
+    ""Q3"": [""Outlier detection"", ""Hyperparameter sensitivity"", ""Deep learning"", ""Model selection"", ""Hyper-ensemble"", ""Parameter sharing"", ""Batch/simultaneous training"", ""Data subsampling""], 
+    ""Q4"": [""Image datasets"", ""Tabular datasets""]
+}"
+1001,"{
+ ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Test time robustification"", ""Test time adaptation"", ""Data augmentation"", ""Invariances"", ""Neural networks"", ""Distribution shift"", ""Robustness""],
+ ""Q4"": [""ImageNet-C"", ""ImageNet-R"", ""ImageNet-A""]
+}"
+1002,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""offline RL"", ""generative adversarial networks (GAN)"", ""distributional shift"", ""support constraint"", ""DASCO"", ""Dual-Generator Adversarial Support Constrained Offline RL""],
+    ""Q4"": ""None""
+}"
+1037,"{
+""Q1"": ""Evasion attack"", 
+""Q2"": ""Specific adversarial attack methods"", 
+""Q3"": [""Adversarial examples"",""Transferability of adversarial examples"",""Deep neural networks"",""Reverse adversarial perturbation"",""Min-max bi-level optimization problem"",""Surrogate model"",""Overfitting"",""Image recognition system""],
+""Q4"": [""Google Cloud Vision API""]
+}"
+1038,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Reinforcement learning"", ""Multi-task"", ""Offline"", ""Data-driven"", ""Wasserstein Auto-Encoder"", ""Latent space"", ""Robotic manipulation"", ""Drone navigation""], 
+    ""Q4"": [""Robotic manipulation"", ""Drone navigation""]
+}"
+1042,"{ ""Q1"" : ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"" : ""Specific adversarial defence methods"",
+ ""Q3"" : [""Language Model Fine-Tuning"", ""Dropout"", ""Self-attention"", ""Attribution-Driven Dropout"", ""Overfitting"", ""Fine-tuning"", ""Regularization""],
+ ""Q4"" : [""Language Understanding""]
+}"
+1050,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Distributed"", ""Stochastic"", ""Variational Inequalities"", ""Federated Learning"", ""Extragradient"", ""Deep Generative Adversarial Networks""],
+    ""Q4"": [""GANs""]
+}"
+1053,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""rank aggregation"", ""model misspecification"", ""robustness"", ""CoarsenRank"", ""neighborhood"", ""empirical data distributions"", ""Thurstone"", ""Bradly-Terry"", ""Plackett-Luce"", ""probability ranking models"", ""optimization""],
+    ""Q4"": [""real-world data sets""]
+}"
+1060,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""privacy"",""quantiles"",""high dimension"",""differentially private algorithms"",""convex geometry"",""robustness"",""Archimedes"",""floating body"",""Steiner point"",""noisy projection oracle""],
+    ""Q4"": [""None""]
+}"
+1069,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Inverse halftoning"", ""Deep learning"", ""U-net architecture"", ""Supervised learning"", ""Generative halftoning"", ""Diffusion process"", ""Halftone dithering"", ""Gray level"", ""Laplacian prior"", ""Blue noise guidance""],
+    ""Q4"": [""Ancient prints"", ""Photographs"", ""Newspapers"", ""Books""]
+}"
+1077,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Spiking Neural Networks"", ""Non-differentiable nature"", ""Binary firing function"", ""Surrogate gradients"", ""Artificial Neural Networks"", ""Temporal dimension"", ""Temporal effective batch normalization"", ""Optimization landscape"", ""Neuromorphic datasets""],
+    ""Q4"": [""Neuromorphic hardware""]
+}"
+1081,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Model selection"", ""Bandit scenarios"", ""Nested policy classes"", ""Adversarial and stochastic high-probability regret guarantees"", ""Base learner"", ""Candidate regret bound"", ""Meta algorithm"", ""Mis-specification tests"", ""CORRAL algorithm"", ""Contextual bandit scenarios""],
+    ""Q4"": ""None""
+}"
+1086,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Fine-tuning"", ""Parameter-efficient fine-tuning"", ""Pre-trained model"", ""Deep Features"", ""Scale and Shift"", ""Re-parameterization"", ""Robustness"", ""Out-of-distribution""],
+    ""Q4"": [""Image classification"", ""FGVC"", ""VTAB-1k""]
+}"
+1102,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Adversarial defense"", ""Image classification"", ""Manifold projections"", ""Implicit functions"", ""Deep features"", ""RGB value"", ""Data efficiency"", ""Transferability""],
+    ""Q4"": ""None""
+}
+"
+1118,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial defense"", ""Image classification"", ""Manifold projections"", ""Deep features"", ""Local implicit module"", ""Data and parameter efficiency"", ""Transfer learning"", ""3D generative models"", ""Textured meshes"", ""3D rendering engines"", ""Differentiable surface modeling"", ""Differentiable rendering"", ""2D Generative Adversarial Networks""],
+    ""Q4"": [""Industries"", ""3D virtual worlds"", ""Content creation"", ""3D software"", ""Downstream applications""]
+}
+"
+1232,"{
+    ""Q1"": ""Data extraction attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Neural networks"", ""Training data"", ""Reconstruction"", ""Implicit bias"", ""Gradient-based methods"", ""Privacy"", ""Attack"", ""Computer vision"", ""MLP classifiers""], 
+    ""Q4"": ""None""
+}
+"
+1125,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Implicit Neural Representation for Audio Scenes (INRAS)"", ""spatial acoustic information"", ""immersive scene modeling"", ""impulse responses"", ""neural network"", ""emitter-listener positions"", ""geometry features"", ""multi-condition training"", ""impulse response quality"", ""inference speed"", ""storage requirements""],
+    ""Q4"": [""audio""]
+}"
+1134,"{
+""Q1"": ""None"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Animatable 3D-Aware Face Image Generation"", ""Video Avatars"", ""2D generative models"", ""3D inconsistency"", ""3D-aware GANs"", ""facial expression control"", ""3D level imitative learning scheme"", ""adversarial training""],
+""Q4"": ""None""
+}"
+1143,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""shortcuts"", ""deep learning"", ""task-related features"", ""performance"", ""robustness"", ""modified task"", ""classification accuracy"", ""feature diversity""], 
+    ""Q4"": ""None""
+}"
+1157,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""nonstationary signals"", ""neural signals"", ""evolutionary ensemble"", ""Bayesian model"", ""robust neural decoding"", ""evolving the decoder model"", ""online tracking"", ""time-varying functions"", ""evolve-at-changes"", ""history-model-archive"" ],
+    ""Q4"": ""None""
+}"
+1167,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""meta-learning"",""Adversarial Task Up-sampling"",""task up-sampling network"",""few-shot"",""sine regression"",""image classification"",""meta-testing performance"",""quality of up-sampled tasks""],
+    ""Q4"": ""None""
+}
+"
+1168,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""distributionally robust optimization"", ""overfitting"", ""logistic regression"", ""mixed features"", ""cutting plane approach"", ""exponential conic programs""],
+    ""Q4"": ""Not clear""
+}"
+1176,"{
+""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""convolutional neural networks"", ""generalization error"", ""adversarial robustness"", ""singular values"", ""convolutional layers"", ""tensor-train decomposition"", ""structurally sparse"", ""hardware-friendly representation"", ""model performance"", ""calibration"", ""adversarial robustness""],
+""Q4"": ""Not clear""
+}
+"
+1178,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Adversarial attacks"", ""Fairness"", ""Data poisoning"", ""Algorithmic bias"", ""Reproducibility study""], 
+    ""Q4"": ""None""
+}"
+1180,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""generative adversarial networks (GANs)"", ""representations"", ""distill"", ""squeeze"", ""span"", ""invariant"", ""semantic-preserving transformations"", ""self-supervised representation learning""],
+    ""Q4"": [""image""]
+}"
+1185,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""fairness-aware"", ""PAC learning"", ""corrupted data"", ""adversary"", ""biased classifier"", ""underrepresented protected groups"", ""corruption ratio"", ""protected groups frequencies""],
+    ""Q4"": ""None""
+}"
+1204,"{
+ ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"": ""Specific adversarial defense methods"",
+ ""Q3"": [""graph neural networks"", ""graph classification"", ""generalization capabilities"", ""regularization strategy"", ""coarsening techniques""],
+ ""Q4"": ""None""
+ }"
+1208,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Conditional Robust Optimization"", ""Deep uncertainty sets"", ""Covariate data space"", ""Value at Risk"", ""Contextual information""],
+    ""Q4"": [""Data-driven decision-making""]
+}"
+1212,"{
+    ""Q1"": ""Data extraction attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Federated Learning"", ""Language Models"", ""Privacy"", ""Eavesdropping"", ""Gradient attack"", ""Recovering Private text"", ""FILM attack"", ""Defense methods"", ""Gradient pruning"", ""DPSGD"", ""Word Embeddings""],
+    ""Q4"": [""Language Modeling""]
+}"
+1269,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""One-shot generative models"",""Human-like generalization"",""FID"",""IS"",""Likelihood"",""Diversity"",""Recognizability"",""GAN-like models"",""VAE-like models"",""Spatial attention"",""Context integration"",""Disentanglement"",""Omniglot dataset""],
+    ""Q4"": ""None""
+}
+"
+1277,"{
+ ""Q1"": ""None"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Offline Multi-Agent Reinforcement Learning"", ""Knowledge Distillation"", ""Transformer architecture"", ""centralized training"", ""decentralized execution"", ""teacher policy"", ""student policies"", ""distill"", ""outperforms"", ""state-of-the-art model-free offline MARL baselines"", ""robust to demonstration's quality"", ""environments""],
+ ""Q4"": ""None""
+}
+"
+1278,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""explainable AI"", ""image classifiers"", ""out-of-distribution accuracy"", ""adversarial patch"", ""human-AI team accuracy"", ""correspondence-based explanations"", ""image classification"", ""deep feature space""],
+    ""Q4"": [""ImageNet"", ""CUB""]
+}"
+1286,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""multi-object tracking"", ""trajectory forecasting"", ""occlusion gaps"", ""appearance models"", ""birds-eye view space"", ""localization uncertainty""],
+    ""Q4"": ""None""
+}"
+1302,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""adversarially robust"", ""OOD detection"", ""overconfidence problem"", ""provable"", ""neural networks"", ""classifier""],
+    ""Q4"": ""None""
+}"
+1307,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Introspective learning"", ""Neural networks"", ""Inference"", ""Decision making"", ""Reflection"", ""Gradients"", ""Multi Layer Perceptron"", ""Post-hoc explanations"", ""Recognition"", ""Robustness"", ""Calibration errors"", ""Generalizability"", ""Uncertainty estimation"", ""Human introspection"", ""Image quality assessment""],
+    ""Q4"": ""Not clear""
+}"
+1326,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Spectral inference"",""multiple networks"",""joint spectral embedding"",""induced correlation"",""inherent correlation"",""network time series data"",""effective sample size"",""biological networks""],
+    ""Q4"": [""Biological""]
+}"
+1329,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Okapi"", ""semi-supervised learning"", ""online statistical matching"", ""nearest-neighbours-based matching"", ""cross-domain views"", ""consistency loss"", ""statistical outliers"", ""memory bank"", ""slow-moving momentum encoder"", ""feature space"", ""modality"", ""task"", ""WILDS 2.0 datasets"", ""Sagawa et al."", ""unsupervised adaptation"", ""out-of-distribution"", ""generalisation"", ""iWildCam"", ""PovertyMap"", ""CivilComments"", ""text dataset"", ""empirical risk minimisation"", ""ERM"", ""code"", ""github""],
+    ""Q4"": [""image"", ""text""]
+}"
+1330,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Decision Transformer"", ""reinforcement learning"", ""supervised learning"", ""RvS"", ""stochastic environments"", ""ESPER"", ""average returns"", ""environment stochasticity"", ""offline-RL tasks"", ""2048"", ""Connect Four"", ""value-based baselines""],
+    ""Q4"": [""games""]
+}"
+1332,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""convolutional neural networks"", ""adversarial attacks"", ""adversarial training"", ""model generalization ability"", ""overconfident"", ""activation functions"", ""pooling"", ""robustness""],
+  ""Q4"": [""computer vision""]
+}
+"
+1333,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Other aspects of adversarial machine learning"",
+  ""Q3"": [""Push-forward generative models"", ""Variational Autoencoders"", ""Generative Adversarial Networks"", ""Lipschitz constant"", ""Multimodal distributions"", ""Total variation distance"", ""Kullback-Leibler divergence"", ""Mode separation"", ""Diffusion models""],
+  ""Q4"": [""None""]
+}"
+1339,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Adversarial reprogramming"",""Evasion attack"",""Two-layer ReLU neural networks"",""Bernoulli data models"",""Hypercube vertices"",""Width"",""Input dimension"",""Directional convergence of gradient flow"",""Orthogonally separable datasets"",""Batch normalisation"",""Untrained networks"",""Random weights""],
+    ""Q4"": ""None""
+}"
+1343,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Semi-Supervised Adversarially Robust PAC Learnability"",""Adversarially robust predictor"",""labeled and unlabeled examples"",""sample complexity"",""PAC model"",""worst-case distribution-free model""],
+  ""Q4"": ""None""
+}"
+1347,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Reinforcement learning"", ""Latent dynamics"", ""Transfer RL"", ""Abstract simulator"", ""Robust policy"", ""Sample complexity"", ""Horizon"", ""States"", ""TASID""],
+    ""Q4"": [""Robotics""]
+}"
+1348,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Stereo matching"", ""Deep Neural Networks"", ""Adversarial attacks"", ""Photometrically-consistent"", ""Simulation-to-real pipeline""],
+    ""Q4"": [""SceneFlow"", ""KITTI2015"", ""Middlebury""]
+}"
+1351,"{
+    ""Q1"": ""Data extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""privacy"", ""machine learning"", ""memorization"", ""outlier samples"", ""membership inference attacks"", ""privacy-enhancing technologies"", ""machine unlearning""],
+    ""Q4"": ""None""
+}"
+1353,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Federated learning"", ""Poisoning attack"", ""Reinforcement learning"", ""Adaptive attack"", ""Distribution estimation"", ""Adaptive defenses""],
+    ""Q4"": [""none""]
+}"
+1376,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""graph neural networks"", ""random walks"", ""diffusion equation"", ""graph Laplacian"", ""hypo-elliptic diffusions"", ""tensor-valued graph operator"", ""low-rank approximation algorithms"", ""long-range dependencies"", ""pooling"", ""graph transformers""],
+    ""Q4"": []
+}"
+1385,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""unsupervised distribution alignment"", ""generative modeling"", ""unsupervised domain adaptation"", ""socially aware learning"", ""flow-based approaches"", ""Jensen-Shannon Divergence (JSD)"", ""min-min optimization"", ""cooperative problem""],
+    ""Q4"": [""None""]
+}"
+1400,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness"", ""Convolutional neural networks"", ""Lipschitz constraint"", ""Orthogonal Jacobian matrix"", ""Gradients"", ""Backpropagation"", ""Performance"", ""Heuristic methods"", ""Certify robustness"", ""MLP"", ""Accuracy"", ""Skew Orthogonal Convolution"", ""Training time"", ""Pooling layers"", ""L2 distance"", ""Manifold"", ""CIFAR-10"", ""CIFAR-100""],
+    ""Q4"": []
+}"
+1402,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Inverse game theory"", ""Stackelberg games"", ""Bounded rationality"", ""Equilibrium"", ""Multi-agent"", ""Quantal response model"", ""Robustness""],
+    ""Q4"": ""None""
+}"
+1404,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Active sets"", ""Gaussian processes"", ""Decoders"", ""Variational inference"", ""Inducing points"", ""Stochastic estimate"", ""Log-marginal likelihood"", ""Cross-validation""],
+    ""Q4"": ""None""
+}
+"
+1408,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Federated Learning"", ""Bayesian Approach"", ""Personalised"", ""Uncertainty Quantification"", ""Population Modeling"", ""Markov Chain Monte Carlo Methods"", ""Client Drift"", ""Inference""],
+  ""Q4"": [""Machine learning""]
+}"
+1427,"{
+    ""Q1"": ""Model extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Self-supervised models"", ""Machine learning"", ""Model stealing attack"", ""Encoder"", ""Mitigation strategies"", ""Density estimation models"", ""Theft detection"", ""Mutual information"", ""Distance measurements"", ""Vision domain""],
+    ""Q4"": [""vision""]
+}"
+1430,"{
+    ""Q1"": ""Another type of attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Algorithmic Bias"", ""Fairness Attacks"", ""ML Reproducibility Challenge"", ""reproduce results"",""re-implementations"", ""stopping method"", ""attack effectiveness""], 
+    ""Q4"": [""None""]
+}"
+1434,"{
+    ""Q1"": ""Poisoning attack"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""data-poisoning attacks"", ""trigger-less attack"", ""backdoor attack"", ""model-agnostic defense"", ""certified approach"", ""image classification"", ""malware detection""],
+    ""Q4"": ""Not clear""
+}"
+1442,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Overparameterization"",
+        ""Computational Constraints"",
+        ""Robust learning"",
+        ""Information-theoretic learners"",
+        ""Bounded learners"",
+        ""Adversaries"",
+        ""Learning task""
+    ],
+    ""Q4"": ""None""
+}
+"
+1443,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Transparent object tracking"", ""Transparent object tracking benchmark"", ""Transparent object tracking algorithm"", ""Transparent object tracking dataset"", ""Transparent object tracking performance"", ""State-of-the-art tracking algorithms"", ""TransATOM"", ""Transparent object tracking evaluation"", ""Transparent object tracking comparison"", ""Transparent object tracking challenges"", ""Transparent object tracking robust target localization""],
+    ""Q4"": [""Computer Vision""]
+}"
+1452,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial training"",""high-stakes reliability"",""AI safety"",""AI systems"",""catastrophic"",""safe language generation task"",""avoid injuries"",""testbed"",""classifier"",""filters text completions"",""generator"",""conservative classifier thresholds"",""robustness"",""adversarial attacks"",""tools"",""measure high levels of reliability""],
+    ""Q4"": [""None""]
+}"
+1459,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Structured pruning"", ""Deep Neural Networks"", ""Explainable predictive models"", ""Attribution methods"", ""Integrated gradient pruning criterion"", ""Neuron relevance"", ""DNN pruning"", ""Fine-tuning flowchart"", ""DNN accuracy""],
+    ""Q4"": [""Computer Vision""]
+}"
+1463,"{
+  ""Q1"": ""Another type of attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [
+    ""Blind face restoration"",
+    ""Codebook prior"",
+    ""Transformer-based prediction network"",
+    ""Code prediction"",
+    ""Low-quality faces"",
+    ""Adaptiveness""
+  ],
+  ""Q4"": [""Computer vision""]
+}"
+1465,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Quantization"",""class-imbalanced data"",""error reduction"",""inter-class heterogeneity"",""homogeneity"",""class variances"",""loss reweighting"",""efficient inferences""],
+    ""Q4"": ""None""
+}"
+1482,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Generative adversarial networks"", ""3D-aware"", ""Unsupervised learning"", ""Radiance fields"", ""Human bodies"", ""Facial expression"", ""Deformation-aware training"", ""3D GAN"", ""Downstream tasks""],
+    ""Q4"": [""human body"", ""facial expression""]
+}"
+1487,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Meta-reinforcement learning"", ""Distributional robustness"", ""Adaptive approach"", ""Population of meta-policies"", ""Test-time distribution shift"", ""Regret""],
+    ""Q4"": ""Simulated robotics""
+}"
+1489,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust Bayesian Regression"", ""Hard Thresholding"", ""Adaptive adversarial attacks"", ""Robust least-squares regression"",""Breakdown point"", ""Bayesian reweighting"", ""Convergence"", ""Dataset attacks""],
+    ""Q4"": ""None""
+}"
+1510,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""contrastive representation learning"", ""Rényi divergence"", ""variational lower bound"", ""skew Renyi divergence"", ""hard negative sampling"", ""easy positive sampling"", ""ImageNet"", ""graph"", ""tabular datasets""],
+    ""Q4"": [""image classification""]
+}"
+1515,"{
+""Q1"": ""None"", 
+""Q2"": ""None"", 
+""Q3"": [""Image classification"", ""Vision Transformer"", ""MLP-Mixer"", ""Convolutional neural networks"", ""Inductive bias"", ""Computer vision"", ""LSTM"", ""Self-attention"", ""ImageNet-1K""], 
+""Q4"": [""Computer vision""]
+}"
+1517,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""signed distance function"", ""neural"", ""3D object representations"", ""point clouds"", ""generalization"", ""meta-learning"", ""episodic training"", ""semi-supervised"", ""shape priors"", ""zero-shot inference""], 
+    ""Q4"": [""3D object representation""]
+}"
+1526,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Neural Testbed"", ""Evaluating Joint Predictions"", ""Predictive distributions"", ""Agents"", ""Quality of marginal predictions"", ""Joint predictions"", ""Simple neural network data generating process"", ""Bayesian deep learning agents"", ""Downstream decision tasks""], 
+    ""Q4"": []
+}"
+1531,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""CLIP"", ""Dataset design"", ""Robustness"", ""Pre-training"", ""Generalization"", ""Distribution shifts"", ""Web-crawled datasets"", ""Contrastive Language-Image pre-training"", ""Flamingo"", ""Data sources"", ""YFCC"", ""LAION"", ""Conceptual Captions"", ""WIT"", ""RedCaps"", ""Shutterstock""],
+    ""Q4"": ""None""
+}
+"
+1533,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Machine Learning"", ""Experimental Science"", ""Trends"", ""NeurIPS"", ""Back-prop nets"", ""Convex optimization"", ""Regularization"", ""Bayesian methods"", ""Boosting"", ""Kernel methods"", ""Deep nets"", ""Big data"", ""Data and benchmarks"", ""Reliability"", ""Fairness"", ""Protection against various attacks"", ""Privacy attacks""], 
+    ""Q4"": ""None""
+}"
+1551,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Streaming PCA"", ""Robustness"", ""Principal components"", ""Covariance matrix"", ""Temporal uncertainty set"", ""Noisy power method"", ""Oja's algorithm""],
+    ""Q4"": []
+}"
+1534,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""fairness"",""robustness"",""machine learning"",""tabular data"",""tree-based models"",""ensemble models"",""sensitive subgroups"",""empirical evaluation""],
+    ""Q4"": [""""]
+}"
+1540,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Principal Components Analysis"", ""Sparse PCA"", ""Sum-of-Squares"", ""Robust statistics"", ""Machine learning"", ""Computational biology"", ""Image processing"", ""Sparse recovery"", ""Tensor PCA"", ""Topic modeling"", ""Video processing""],
+    ""Q4"": [""Computational biology"", ""Image processing"", ""Topic modeling"", ""Video processing""]
+}"
+1549,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Differentially private machine learning"", ""Statistically audit"", ""Empirically evaluate"", ""Privacy search"", ""Verification methods"", ""Influence-based poisoning attacks"", ""Logistic regression"", ""Naive Bayes"", ""Random forest"", ""Implementation errors"", ""Misuse""],
+    ""Q4"": ""None""
+}"
+1561,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Deep ensemble"", ""Neural network"", ""Accuracy"", ""Uncertainty quantification"", ""Robustness"", ""Dataset shift"", ""Out-of-distribution"", ""In-distribution"", ""Predictive power""],
+    ""Q4"": ""Not clear""
+}
+"
+1562,"{
+  ""Q1"": ""None"", 
+  ""Q2"": ""Specific adversarial defence methods"", 
+  ""Q3"": [""Zero-sum stochastic games"",""Nash equilibrium"",""Stackelberg equilibrium"",""Machine learning"",""Economics"",""Adversarial board and video games"",""Convex-concave"",""Markov perfect"",""Stochastic Fisher markets"",""Recursive competitive equilibria""], 
+  ""Q4"": [""Economics"",""Stochastic Fisher markets""]
+}"
+1566,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Other aspects of adversarial machine learning"",
+  ""Q3"": [""Collaborative decision making"", ""Action suggestions"", ""Autonomy"", ""Human oversight"", ""Belief"", ""Valid actions"", ""Environment"", ""Policy"", ""Simulated experiments"", ""Performance"", ""Robustness""],
+  ""Q4"": [""Autonomous systems""]
+}"
+1568,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Generalization"", ""Regression"", ""Mixup"", ""Deep networks"", ""Label similarity"", ""Out-of-distribution robustness"", ""Meta-regression"", ""Supervised regression"", ""Domain-invariant representations""],
+    ""Q4"": ""None""
+}"
+1570,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [
+        ""Causal discovery"",
+        ""Heterogeneous environments"",
+        ""Sparse mechanism shift hypothesis"",
+        ""Machine learning"",
+        ""Independent and identically distributed (i.i.d.) data"",
+        ""Distribution shifts"",
+        ""Causality"",
+        ""Observational and interventional distributions"",
+        ""Mechanism Shift Score (MSS)"",
+        ""Score-based approach"",
+        ""Empirical estimators"",
+        ""Nonparametric""
+    ],
+    ""Q4"": ""None""
+}
+"
+1573,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust learning"", ""Representation Similarities"", ""Deep neural networks (DNNs)"", ""Adversarial examples"", ""Representation learning"", ""Robust training"", ""Generalization of robustness"", ""Overfitting""],
+    ""Q4"": ""None""
+}"
+1576,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Implicit neural 3D representation"", ""surface reconstruction"", ""scene reconstruction"", ""novel view synthesis"", ""coordinate-based multi-layer perceptrons (MLPs)"", ""Neural Radiance Field (NeRF)"", ""prior information"", ""codebook attention"", ""coordinate attention"", ""3D view rendering"", ""photo-realistic appearance"", ""geometry"", ""fewer input views"", ""fine detail-preserving capability""],
+    ""Q4"": [""Scene reconstruction"", ""3D head reconstruction""]
+}
+"
+1583,"{
+ ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""invariance"", ""machine learning"", ""robustness"", ""prediction"", ""gray-box"", ""randomized smoothing"", ""certificates"", ""group orbits"", ""permutation"", ""Euclidean isometries""],
+ ""Q4"": [""molecular property prediction"", ""medical imaging"", ""protein folding"", ""LiDAR classification""]
+}"
+1584,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""None"",
+    ""Q3"": [""Structure-based drug design"", ""Deep generative models"", ""Three-dimensional molecular design"", ""Protein pockets"", ""Combinatorial optimization"", ""Genetic algorithms"", ""Neural models"", ""Binding affinity"", ""Disease targets"", ""Docking scores"", ""Physics of binding processes""],
+    ""Q4"": [""Pharmaceuticals""]
+}"
+1875,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Distributionally robust optimization"", ""Tikhonov regularization"", ""Optimal transport"", ""Martingale constraints"", ""Adversary"", ""Empirical measure"", ""Regularization tools"", ""Strong duality theorem""],
+    ""Q4"": ""None""
+}"
+1601,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust Graph Classification"", ""Orthogonal Gromov-Wasserstein"", ""Threats"", ""Certifying"", ""Graph classifiers"", ""Topological attacks"", ""Isomorphism"", ""Perturbation"", ""Fenchel biconjugate"", ""Convex optimization"", ""Matching loss"", ""Resistance distance"", ""Graph nodes"", ""Graph convolutional networks"", ""Certificate"", ""Attack algorithm""],
+    ""Q4"": None
+}"
+1614,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""transformer architecture"", ""representations"", ""time-varying systems"", ""population-level dynamics"", ""individual"", ""complex interactions"", ""many-body systems"", ""neurons"", ""nervous system"", ""neural activity"", ""transfer learning"", ""pre-training""],
+    ""Q4"": [""neural decoding"", ""many-body systems"", ""nervous system""]
+}
+"
+1616,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Vision transformers"", ""patch-based architecture"", ""robustness"", ""negative augmentation"", ""semantic class"", ""distribution shifts"", ""out-of-distribution performance"", ""invariance"", ""ImageNet"", ""contrastive learning""],
+    ""Q4"": [""Computer Vision""]
+}"
+1619,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Hyperparameter optimization"", ""Meta-learning"", ""OptFormer"", ""Transformer"", ""Vizier"", ""HPO"", ""Hyperparameter response functions""],
+    ""Q4"": ""Not clear""
+}
+"
+1625,"{
+    ""Q1"": [""Evasion attack"", ""Another type of attack""],
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""deep neural networks"", ""backdoored"", ""data samples"", ""training dataset"", ""adversary"", ""target class"", ""test data"", ""trigger pattern"", ""nullify"", ""backdoor threats"", ""purifying"", ""compromised model"", ""Adversarial Weight Masking"", ""min-max optimization"", ""non-robust perturbation patterns"", ""mask"", ""network weights"", ""sensitive"", ""recovered patterns"", ""benchmark datasets"", ""purifying effects"", ""state-of-the-art methods"", ""available training dataset sizes""],
+    ""Q4"": ""None""
+}"
+1641,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Information encoding"", ""Recurrent neural networks"", ""Time-varying stimuli"", ""Excitatory currents"", ""Recurrent inhibition"", ""Mutual information rate"", ""Additive noise"", ""Chaotic network fluctuations"", ""Positive firing rates"", ""Feedforward excitatory input"", ""Local recurrent inhibition""],
+    ""Q4"": ""None""
+}"
+1646,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""What You See Is What You Get (WYSIWYG)"", ""Stochastic gradient descent (SGD)"", ""Differentially-Private (DP) training"", ""Distributional generalization"", ""Deep learning"", ""Optimization"", ""Distributional-robustness applications"", ""Privacy vs. Disparate impact trade-off"", ""Adversarial training"", ""Stability"", ""Theoretical bounds""],
+    ""Q4"": ""None""
+}
+"
+1647,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""multitask learning"", ""robustness"", ""neuron failures"", ""bilingual language models"", ""cognitive science"", ""dementia"", ""cognitive decline"", ""bilingual cognitive reserve"", ""GPT-2"", ""linear representation learning"", ""mathematically analyzing""],
+    ""Q4"": [""Language model""]
+}"
+1656,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""3D point clouds"", ""3D classification"", ""domain generalization"", ""part-based feature representation"", ""part-template feature space"", ""part-level features"", ""part-based feature aggregation module"", ""contrastive learning framework"", ""3DDA"", ""3DDG"", ""domain generalization""],
+    ""Q4"": [""3D""]
+}"
+1668,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""class-conditional generation"", ""conditional generative adversarial networks"", ""multi-label training datasets"", ""single positive setting"", ""single-to-multi-label (S2M) sampling"", ""Markov chain Monte Carlo method"", ""unconditional and conditional GANs""],
+    ""Q4"": [""real-world scenarios"", ""real image datasets""]
+}"
+1677,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Cross-domain imitation learning"", ""Adversarial training"", ""Mutual information criterion"", ""Embedding"", ""Policy transfer"", ""Task-relevant information""],
+    ""Q4"": [""Autonomous agent""]
+}"
+1678,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Adversarial viewpoint"", ""Robustness"", ""Visual recognition"", ""Neural radiance fields"", ""Entropic regularizer"", ""Image classifiers"", ""Out-of-distribution dataset"", ""ViewFool"", ""ImageNet-V""], 
+    ""Q4"": [""Autonomous driving""]
+}"
+1690,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""3DB"", ""Debugging"", ""Computer Vision"", ""Models"", ""Photorealistic simulation"", ""Robustness analyses"", ""Physical world""],
+    ""Q4"": ""None""
+}
+"
+1706,"{
+    ""Q1"": [""Lack of robustness to (not necessarily adversarial) OOD inputs"", ""Another type of attack""],
+    ""Q2"": [""Specific adversarial defence methods"", ""Other aspects of adversarial machine learning""],
+    ""Q3"": [""Vertical federated learning"", ""Fairness-sensitive features"", ""Bias"", ""Adversarial learning"", ""Privacy-preserving"", ""Contrastive adversarial learning""],
+    ""Q4"": [""None""]
+}
+"
+1713,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Markov decision processes"", ""Uncertain MDPs"", ""formal verification"", ""Bayesian inference"", ""robust anytime-learning"", ""UCRL2 reinforcement learning""],
+    ""Q4"": [""sequential decision-making""]
+}"
+1715,"{
+""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""generalized linear models"", ""adversarial corruptions"", ""iterative trimmed maximum likelihood estimator"", ""minimax near-optimal risk"", ""Gaussian regression"", ""Poisson regression"", ""Binomial regression"", ""label and covariate corruptions"", ""robustness"", ""optimality""],
+""Q4"": ""None""
+}"
+1723,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Imitation learning"", ""Backwards model"", ""Robustness"", ""Covariate shift"", ""Extrapolation"", ""Generative model"", ""Continuous control""],
+    ""Q4"": [""Continuous control domains""]
+}
+"
+1747,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Sparse convolutional model"", ""Visual recognition"", ""Deep neural networks"", ""Interpretability"", ""Convolutional dictionary"", ""Differentiable optimization layers"", ""Conventional deep neural networks"", ""Sparse coding"", ""Input corruptions"", ""Adversarial perturbations"", ""Sparse regularization"", ""Data reconstruction""],
+    ""Q4"": [""Image classification"",""CIFAR-10"",""CIFAR-100"",""ImageNet""]
+}"
+1754,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial noise"", ""Data Poisoning Attack"", ""Defense Mechanisms"", ""Training examples"", ""Prediction"", ""Generalization performance"", ""Sharp loss regions"", ""Optimized friendly noise"", ""Randomly varying noise component"", ""Backdoor poisoning attacks"", ""Adaptive attacks""],
+    ""Q4"": None
+}"
+1768,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Federated learning"", ""Model-heterogeneous"", ""Rolling sub-model extraction"", ""Partial training"", ""Low-end clients"", ""Large-model large-dataset regime"", ""Theoretical statistical analysis""],
+    ""Q4"": [""Federated learning""]
+}"
+1782,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Amortized Inference"", ""Causal Structure Learning"", ""Combinatorial search problem"", ""Score or independence test"", ""Variational inference model"", ""Observational or interventional data"", ""Permutation invariances"", ""Statistical efficiency"", ""Structure learning"", ""Synthetic data"", ""Semisynthetic gene expression data"", ""Generalization capabilities"", ""Distribution shifts"", ""Genomics domain""],
+    ""Q4"": [""Genomics""]
+}"
+1786,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""fairwashing"", ""black-box models"", ""model explanation techniques"", ""surrogate model"", ""FRAUD-Detect"", ""fairness audit detection"", ""subpopulation-wise fidelity measures""],
+    ""Q4"": [""high-stakes decision-making systems""]
+}
+"
+1788,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""semi-supervised learning"", ""self-training"", ""bias"", ""pseudo labels"", ""adversarial optimization"", ""classifier heads""],
+    ""Q4"": [""none""]
+}"
+1796,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Stochastic neural networks"", ""Adversarial example"", ""Gradient-based"", ""Sample-based attack"", ""Robustness"", ""Increasing attack strengths"", ""Model robustness"", ""Empirical analysis""], 
+    ""Q4"": ""None""
+}"
+1797,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Latent space robustness"", ""Uncertainty"", ""EEG-ML models"", ""Realistic distribution shifts"", ""Representation learning"", ""EEG signals"", ""Downstream tasks"", ""Clinical utility""],
+    ""Q4"": [""Healthcare""]
+}"
+1799,"{
+    ""Q1"": [""Lack of robustness to (not necessarily adversarial) OOD inputs"",""Another type of attack""],
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""overparameterization"", ""membership inference attack"", ""privacy attacks"", ""linear regression"", ""ridge regularization"", ""Gaussian data setting""],
+    ""Q4"": ""None""
+}"
+1804,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Instructions"", ""Descriptions"", ""Autonomy"", ""Contextual bandit setting"", ""Human communication"", ""Policy"", ""Reward function"", ""Social learning"", ""Reinforcement learning""], 
+    ""Q4"": ""Not clear""
+}"
+1811,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [
+        ""Visual Counterfactual Explanations (VCEs)"",
+        ""Image classifier"",
+        ""Adversarially robust models"",
+        ""Diffusion Visual Counterfactual Explanations (DVCEs)"",
+        ""ImageNet classifiers"",
+        ""Diffusion process"",
+        ""Adaptive parameterization"",
+        ""Distance regularization"",
+        ""Late start"",
+        ""Cone regularization""
+    ],
+    ""Q4"": ""Not clear""
+}"
+1812,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Semi-Supervised"", ""Video Salient Object Detection"", ""Uncertainty-Guided Pseudo Labels"", ""Temporal consistency"", ""Adversarial learning"", ""Robustness"", ""Pseudo labels""], 
+    ""Q4"": [""DAVIS"", ""FBMS"", ""MCL"", ""ViSal"", ""SegTrack-V2""]
+}"
+1816,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Certified robustness training"", ""Knowledge transfer"", ""Adversarial attack"", ""Deep neural network"", ""AI-controlled systems"", ""Robust teacher"", ""Student"", ""CIFAR-10"", ""ImageNet""],
+    ""Q4"": [""None""]
+}"
+1832,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Other aspects of adversarial machine learning"",
+  ""Q3"": [
+    ""combinatorial bandits"",
+    ""semi-bandit feedback"",
+    ""finite budget"",
+    ""subset-dependent feedback"",
+    ""non-stochastic"",
+    ""numerical-based"",
+    ""preference-based"",
+    ""optimal arms"",
+    ""aggressive"",
+    ""conservative"",
+    ""learning algorithm"",
+    ""lower bounds""
+  ],
+  ""Q4"": ""None""
+}"
+1835,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Stochastic first-order methods"", ""Stochastic Extragradient"", ""Stochastic Gradient Descent-Ascent"",""variational inequality problems"",""adversarial formulations"",""machine learning"",""high-probability convergence bounds"",""non-sub-Gaussian noise"",""unbounded domains"",""monotone"",""structured non-monotone"",""negative comonotone"",""quasi-strongly monotone"",""star-cocoercive"",""SEG"",""SGDA"",""clipping"",""GAN formulations""],
+    ""Q4"": [""none""]
+}
+"
+1854,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""generative adversarial nets"",""GANs"",""limited data"",""Discriminator gradIent Gap regularization"",""GAN training""],
+    ""Q4"": [""None""]
+}"
+1859,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""average robustness"", ""deep neural networks"", ""under-parameterized setting"", ""over-parameterized setting"", ""LeCun initialization"", ""Neural Tangent Kernel (NTK)"", ""He-initialization"", ""lazy training regime"", ""non-lazy training regime"", ""width"", ""depth"", ""initialization"", ""two-layer ReLU network""],
+    ""Q4"": ""None""
+}"
+1865,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""No-regret learning"", ""games with noisy feedback"", ""learning rate separation"", ""regret minimization"", ""variationally stable games"", ""payoff gradients"", ""noise"", ""multiplicative noise"", ""optimistic gradient scheme"", ""adaptive method""],
+    ""Q4"": ""None""
+}
+"
+1881,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""invariant learning"", ""environment partition"", ""heterogeneous data"", ""causal mechanisms"", ""auxiliary information"", ""inductive biases""], 
+    ""Q4"": []
+}"
+1883,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Object-oriented reinforcement learning"", ""Object-Category Aware Reinforcement Learning"", ""Object representation"", ""Category information"", ""Perception"", ""Reasoning"", ""Sample efficiency"", ""Generalization""],
+    ""Q4"": [""OORL""]
+}"
+1886,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Model agnostic explanations"", ""Black box models"", ""Local boundary"", ""Input"", ""Non-linear"", ""Deep relu network"", ""Linear approximation"", ""Neighborhood width"", ""Inverse covariance matrix"", ""Function fitting procedures"", ""Adaptive neighborhood sampling scheme"", ""ANS""],
+    ""Q4"": [""""]
+}"
+1892,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Multi-agent reinforcement learning"", ""Reward estimation"", ""Policy-weighted reward aggregation"", ""Stabilized training""],
+    ""Q4"": [""Robotics"", ""Automatic driving""]
+}"
+1894,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Point cloud"", ""Data augmentation"", ""Mixup"", ""Saliency-Guided"", ""3D vision"", ""Salient regions"", ""Local structure"", ""Saliency scores"", ""Uncertainty calibration""],
+    ""Q4"": [""ModelNet40"",""ScanObjectNN"",""part segmentation"",""image classification""]
+}"
+1897,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""adversarial attack"",""face recognition"",""high-level semantics"",""Adversarial Attributes"",""Adv-attribute"",""attack transferability"",""perturbations"",""low-level pixels"",""multi-objective optimization strategy"",""importance-aware attribute selection"",""stealthiness""],
+    ""Q4"": [""Face Recognition""]
+}
+"
+1902,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Noise robustness"", ""Gradient scaling"", ""Mislabeled samples"", ""Noise Attention Learning"", ""Deep neural networks"", ""Generalization"", ""Label noise"", ""Predictive power""],
+    ""Q4"": [""CIFAR-10"", ""CIFAR-100"", ""ANIMAL-10N"", ""Clothing1M"", ""Webvision""]
+}
+"
+1928,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Information-Theoretic"", ""GAN Compression"", ""Variational Energy-based Model"", ""Knowledge distillation"", ""Mutual information"", ""Teacher and student networks"", ""Variational optimization"", ""Energy-based model"", ""Deep neural network"", ""Variational distribution"", ""High-dimensional images"", ""Spatial dependencies"", ""Model compression"", ""Generative adversarial networks"", ""Dense prediction networks"", ""Image enhancement models""],
+    ""Q4"": [""None""]
+}"
+1932,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Simulation-based inference"", ""sequential inference"", ""Truncated Sequential Neural Posterior Estimation (TSNPE)"", ""coverage tests"", ""inference method"", ""scientific models""],
+    ""Q4"": [""Neuroscience""]
+}"
+1935,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Numerical reasoning"", ""Adaptive symbolic compiler"", ""Artificial Intelligence"", ""RoBERTa"", ""Encoder"", ""Compiler"", ""Reasoning Manager"", ""Operator Generator"", ""Operands Generator"", ""Memory Register"", ""FinQA dataset"", ""MathQA dataset""],
+    ""Q4"": [""None""]
+}"
+1941,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Randomized smoothing"", ""Graph Neural Networks (GNNs)"", ""Gray-box certificates"", ""Message-passing principle"",""Adversarial robustness"", ""Node features"", ""Graph structure"", ""Graph sparsification""],
+  ""Q4"": [""Graph Neural Networks""]
+}"
+1965,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Conditional image synthesis"", ""GAN"", ""IMLE"", ""Mode collapse"", ""Fréchet Inception Distance (FID)"", ""High-fidelity images"", ""Image Fidelity"", ""Mode coverage"", ""Night-to-day"", ""16x single image super-resolution"", ""Image colourization"", ""Image decompression""],
+  ""Q4"": ""None""
+}
+"
+1968,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Cluster randomized designs"", ""One-sided bipartite experiments"", ""Interference"", ""Marketplaces"", ""Two-sided platforms"", ""Exposure mapping framework"", ""Difference-in-means estimator"", ""Balanced partitioning clustering"", ""Linear potential outcomes models"", ""Bounded interference"", ""Robustness""], 
+    ""Q4"": [""Marketplaces"",""Two-sided platforms""]
+}
+"
+1982,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""monotone submodular maximization"", ""noisy oracles"", ""cardinality constraint"", ""approximation guarantee"", ""noise reduction""],
+    ""Q4"": [""None""]
+}
+"
+1993,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""min-max optimization"", ""Riemannian manifolds"", ""geodesic convex-concave"", ""Riemannian corrected extragradient"", ""Riemannian gradient ascent-descent"", ""curvature of the manifold"", ""robust PCA""],
+    ""Q4"": [""Robust PCA""]
+}"
+1996,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Adversarial training"", ""Deep Neural Networks"", ""Data augmentations"", ""Domain generalization"", ""Jensen-Shannon divergence loss"", ""Gradient masking"", ""Robustness-accuracy trade-off"", ""RobustBench Leaderboard""],
+  ""Q4"": [""None""]
+}"
+2004,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Shapley values"", ""kernel methods"", ""feature attribution"", ""Interventional Shapley values"", ""Observational Shapley values"", ""kernel mean embeddings"", ""local perturbations"", ""Shapley regularizer"", ""empirical risk minimization"", ""covariate shift"", ""fair learning""],
+    ""Q4"": ""None""
+}"
+2005,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""non-stationary bandits with knapsacks"",""resource consumption"",""multi-arm bandit"",""cumulative reward"",""knapsack constraints"",""stochastic"",""adversarial environment"",""variation budget"",""sublinear regret"",""global non-stationarity measure"",""primal-dual analysis"",""online convex optimization with constraints"",""regret bounds""],
+  ""Q4"": ""None""
+}"
+2008,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial unlearning"", ""Reducing Confidence"", ""Overfitting"", ""Regularization"", ""Out-of-distribution examples"", ""Adversarial Training"", ""Test accuracy"", ""Spurious features""],
+    ""Q4"": ""None""
+}"
+2012,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Fine-tuning"", ""Language models"", ""Non-language tasks"", ""Classification"", ""Regression"", ""Inductive bias"", ""Robustness"", ""Sample complexity"", ""Pretraining"", ""Context-aware learning"", ""Prompting"", ""Calibrated predictions"", ""Data generation"", ""Two-stage fine-tuning""],
+    ""Q4"": [""None""]
+}"
+2023,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""style transfer"", ""out-of-domain"", ""speech synthesis"", ""voice"", ""prosody"", ""multi-level style adaptor"", ""generalizable content adaptor"", ""Mix-Style Layer Normalization"", ""linguistic content representation"", ""model generalization"", ""zero-shot style transfer"", ""few-shot data setting""],
+    ""Q4"": [""Speech""]
+}"
+2099,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Molecular representation learning"", ""Robustness"", ""Out-of-distribution"", ""Substructure Invariance"", ""Environment-invariant substructures""], 
+    ""Q4"": [""Molecular property prediction"", ""Target identification""]
+}"
+2040,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Vision transformers"", ""Adversarial robustness"", ""Convolutional Neural Networks"", ""Decision-based attack"", ""Patch-wise Adversarial Removal"", ""Noise sensitivity"", ""Black-box attack""],
+    ""Q4"": ""None""
+}
+"
+2051,"{
+    ""Q1"": ""Evasion attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""audio adversarial examples"", ""streaming contexts"", ""audio-to-audio tasks"", ""deep learning systems"", ""user-generated audio data"", ""security"", ""privacy"", ""automatic speaker recognition"", ""time-varying finite impulse response (FIR) filter"", ""speech enhancement"", ""de-identifying user speech"", ""perceptual study"", ""anonymization methods"", ""real-time""],
+    ""Q4"": [""audio""]
+}"
+2133,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Adversarial Training"", ""Adversarial robustness"", ""Automated Attacker"", ""Efficient perturbations"", ""Boosting performance""],
+    ""Q4"": [""none""]
+}"
+2055,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust Offline Reinforcement Learning"", ""Conservative Smoothing"", ""Offline reinforcement learning"", ""Value estimation"", ""Action selection"", ""Sensor errors"", ""Adversarial attacks"", ""Regularization"", ""Policy"", ""Value function"", ""Dataset"", ""Suboptimality bound"", ""Linear MDPs""],
+    ""Q4"": ""None""
+}"
+2064,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Model compression"", ""Neural networks"", ""Interpolative decompositions"", ""Channel elimination"", ""Theoretical generalization bound"", ""Heuristic"", ""Deep networks"", ""ImageNet""],
+    ""Q4"": [""Computer Vision""]
+}"
+2085,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Bayesian deep learning"", ""Functional prior"", ""Neural networks"", ""Wasserstein distance"", ""Markov chain Monte Carlo sampling"", ""Convolutional neural networks""],
+    ""Q4"": [""None""]
+}"
+2092,"{
+    ""Q1"": ""Model extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""privacy-preserving"", ""collaborative learning"", ""automatic transformation search"", ""reconstruction attacks"", ""data augmentations"", ""protection"", ""generalize"", ""attacker"", ""knowledge"", ""optimizing"", ""policies"", ""search algorithm""],
+    ""Q4"": []
+}"
+2101,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""domain generalization"",""semantic representations"",""semantic topology"",""Category-aware Data Mixing"",""Adaptive Semantic Topology Refinement""],
+    ""Q4"": [""DG benchmarks""]
+}"
+2103,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Unsupervised"", ""Causal"", ""Generative"", ""Images"", ""Object-centric"", ""3D"", ""Scene understanding"", ""Robustly"", ""Out-of-distribution"", ""Physical process"", ""Camera"", ""Multi-view"", ""Latent representation"", ""Shapes"", ""Colours"", ""Positions"", ""3D objects"", ""Neural radiance fields"", ""Inference algorithm"", ""Unseen combination"", ""Unseen spatial compositions"", ""Radically new viewpoint""],
+    ""Q4"": [""3D scene understanding""]
+}"
+2111,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""stochastic gradient descent"", ""active labeling"", ""active learning"", ""partial supervision"", ""streaming technique"", ""generalization error""],
+    ""Q4"": ""None""
+}"
+2112,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Adversarial attack"", ""Spatiotemporal traffic forecasting"", ""Vulnerability"", ""Practical adversarial spatiotemporal attack framework"", ""Gradient guided node saliency method"", ""Spatiotemporal gradient descent"", ""Performance degradation"", ""Adversarial training"", ""Robustness"", ""Real-world datasets""],
+    ""Q4"": ""None""
+}
+"
+2117,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Counterfactual Simulation Testing"", ""Robustness"", ""Neural networks"", ""Convolutional Neural Networks"", ""Vision Transformers"", ""Naturalistic variations"", ""Object pose"", ""Scale"", ""Viewpoint"", ""Lighting"", ""Occlusions"", ""Generalization""],
+    ""Q4"": [""Computer Vision""]
+}"
+2138,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Causal User Modeling"",""Robust Prediction"",""Causal Graph"",""Boundedly-Rational Decision Makers"",""Relevance Prediction"",""Social Platforms""],
+    ""Q4"": ""None""
+}"
+2141,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Lipschitz constrained networks"", ""Wasserstein distance estimation"", ""Certifiably robust classifiers"", ""1-Lipschitz neural networks"", ""Classification"", ""WGAN discriminator"", ""Generalization"", ""Accuracy-robustness trade-off"" ],
+    ""Q4"": ""None""
+}"
+2148,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Adversarial attacks"", ""Deep clustering models"", ""Robustness"", ""Generative Adversarial Networks (GANs)"", ""Unsupervised defense approaches"", ""Face++""],
+    ""Q4"": [""Data science"", ""Face clustering API service""]
+}"
+2160,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""dataset distillation"", ""dataset factorization"", ""HaBa"", ""Hallucination networks"", ""Bases"", ""adversarial contrastive constraints"", ""compression"", ""classification tasks"", ""cross-architecture generalization""],
+    ""Q4"": ""None""
+}"
+2161,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""backdoor attack"", ""poisoning-based attack"", ""deep models"", ""feature consistency towards transformations (FCT)"", ""sample-distinguishment module"", ""secure model"", ""backdoor removal module""],
+    ""Q4"": [""None""]
+}"
+2162,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness"", ""Mixed sample data augmentation"", ""Mixup"", ""CutMix"", ""Regularization"", ""Pixel-level regularization"", ""Generalization"", ""Theoretical results"", ""Loss function perspective"", ""First layer parameters"", ""Design choices"", ""Hybrid version"", ""Gaussian Mixup"", ""Empirical study"", ""CIFAR-100"", ""ImageNet classification""],
+    ""Q4"": ""None""
+}"
+2166,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Neural Reflectance Field"", ""Multi-view scene reconstruction"", ""Single-view images"", ""Point lights"", ""3D geometry"", ""BRDFs"", ""Shading"", ""Shadow"", ""Inferring scene geometry"", ""Depth discontinuities"", ""Novel-view synthesis"", ""Relighting""],
+""Q4"": [""3D geometry""]
+}"
+2179,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""3D reconstruction"", ""Articulated shapes"", ""Sparse image ensemble"", ""3D part discovery"", ""Self-supervised"", ""Deep features"", ""2D-3D consistency""],
+    ""Q4"": [""animals""]
+}"
+2182,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial training"", ""Complementary labels"", ""Gradually informative attacks"", ""Adversarial optimization"", ""Low-quality adversarial examples"", ""Warm-up attack"", ""Pseudo-label attack""],
+    ""Q4"": ""None""
+}"
+2183,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Imitation learning"", ""Policy learning"", ""Reinforcement learning"", ""Behavioral Cloning"", ""Adversarial Imitation Learning"", ""EfficientZero"", ""MCTS-based RL"", ""DeepMind Control Suite""],
+    ""Q4"": [""None""]
+}
+"
+2184,"{
+    ""Q1"": ""Model extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""text generation APIs"", ""IP protection"", ""Watermarking"", ""Conditional Watermarks"", ""null-hypothesis test"", ""ownership verification"", ""imitation attacks"", ""IP violations"", ""word distributions"", ""watermarking rules"", ""architectural mismatch"", ""cross-domain imitation attacks""],
+    ""Q4"": ""None""
+}"
+2197,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness evaluations"", ""Deep neural networks"", ""Adversarial examples"", ""Defense evaluation"", ""Attack unit tests""],
+    ""Q4"": [""Deep Learning""]
+}"
+2202,"{
+    ""Q1"": ""Data extraction attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""deep neural networks"", ""autoencoder"", ""secret messages"", ""probabilistic models"", ""SinGAN"", ""generative adversarial networks"", ""embedding key""],
+    ""Q4"": [""image""]
+}"
+2215,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""masked generative adversarial network (MaskedGAN)"", ""image generation"", ""GAN training"", ""limited data"", ""spatial masking"", ""spectral masking"", ""holistic learning"", ""network architectures"", ""CNNs"", ""BigGAN"", ""StyleGAN-v2"", ""Transformers"", ""TransGAN"", ""GANformer"", ""datasets"", ""CIFAR-10"", ""CIFAR-100"", ""ImageNet"", ""100-shot"", ""AFHQ"", ""FFHQ"", ""Cityscapes""],
+    ""Q4"": [""image generation""]
+}"
+2225,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Mutual Information Divergence"", ""Multimodal Generative Models"", ""Text-to-image generation"", ""Image captioning"", ""Machine intelligence"", ""Evaluation"", ""Generation"", ""Metrics"", ""CLIP features"", ""Consistency"", ""Sample parsimony"", ""Robustness""],
+    ""Q4"": ""None""
+}"
+2232,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Momentum Adversarial Distillation"", ""Large Distribution Shifts"", ""Data-Free Knowledge Distillation"", ""Transferring knowledge"", ""Synthetic data"", ""Student network"", ""Teacher network"", ""Adversarial training"", ""EMA copy"", ""Generator""],
+    ""Q4"": [""ImageNet"", ""Places365""]
+}"
+2233,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial Markov Decision Processes"",""Follow-the-Perturbed-Leader"",""Regret minimization"",""Online-Mirror-Descent"",""Bandit feedback"",""Delayed bandit feedback"",""Communicating AMDPs"",""No-regret algorithm"",""Offline planning oracle""],
+    ""Q4"": []
+}"
+2279,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Multiverse analysis"", ""Robust and generalizable claims"", ""Machine learning research"", ""Gaussian Process surrogate"", ""Bayesian experimental design"", ""Model performance"", ""Adaptive optimizers"", ""Learning rate"", ""Large batch training generalization gap"", ""Reproducibility""],
+    ""Q4"": []
+}"
+2774,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Foundation Model"", ""Robustness"", ""Pretrained"", ""Group shifts"", ""Adapters"", ""Zero-shot classification""],
+    ""Q4"": [""None""]
+}"
+2254,"{
+""Q1"": ""None"",
+""Q2"": ""Specific adversarial defence methods"", 
+""Q3"": [""multiscale online learning"", ""full-information online learning"", ""worst-case regret"", ""statistical margin assumptions"", ""multiscale extension"", ""loss ranges of the experts"", ""worst-case robustness"", ""adaptation to easy data"", ""optimism"", ""two-player zero-sum games"", ""scale-adaptive algorithm"", ""Freund's 2016 open problem""],
+""Q4"": ""None""
+}"
+2260,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Tradeoff"", ""Robustness"", ""Fairness"", ""Adversarial training"", ""Perturbation radii"", ""Class-wise disparity"", ""Linear models"", ""Mixture Gaussian distribution"", ""Mitigate"", ""Effectiveness""],
+    ""Q4"": ""None""
+}"
+2263,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""data poisoning attacks"", ""membership exposure"", ""dirty-label attack"", ""clean-label attack"", ""transfer learning"", ""computer vision benchmarks"", ""membership inference precision"", ""countermeasures""],
+    ""Q4"": ""None""
+}"
+2725,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial team games"", ""Equilibrium approximation"", ""Subgame solving"", ""Multiple players"", ""Cooperation"", ""Competition"", ""Information asymmetry""],
+    ""Q4"": []
+}"
+2273,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""AlphaZero"", ""Adversarial Perturbations"", ""Go"", ""Adversarial examples"", ""Semantically equivalent"", ""Meaningless moves"", ""Inferior action"", ""Policy-Value neural network"", ""Monte Carlo tree search"", ""NoGo"", ""KataGo""],
+    ""Q4"": [""Go""]
+}
+"
+2284,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""convolutional neural networks"",""robustness"",""adversarial examples"",""frequency bias"",""Shapley value"",""frequency domain"",""adversarial training"",""adversarial attack"",""data augmentation""],
+    ""Q4"": [""image classification""]
+}"
+2295,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Online convex optimization"", ""Regret bounds"", ""Stochastic"", ""Adversarial"", ""Smoothness""],
+    ""Q4"": []
+}"
+2296,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""structured prediction"",""tree-shaped objects"",""syntactic dependency parsing"",""maximum likelihood"", ""margin"", ""risk minimization"", ""non-convex problem"", ""regularization"", ""probabilistic interpretation"", ""moment-based distributionally robust optimization"", ""worst-case expected loss"", ""bounded moment divergence"", ""algorithms"", ""Fisher consistency"", ""convergence rates"", ""generalization bounds"", ""dependency parsing benchmarks""],
+  ""Q4"": [""Dependency parsing""]
+}"
+2297,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Adversarial perturbations"", ""Deep reinforcement learning"", ""Robustness"", ""Worst-case-aware"", ""Robust training framework"", ""RL"", ""Bounded l_p attacks""],
+  ""Q4"": None
+}"
+2303,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Generative Adversarial Networks"", ""Discriminator"", ""Synthesis Performance"", ""GANs"", ""Data regimes"", ""Image Synthesis""],
+    ""Q4"": [""2D"", ""3D-aware image synthesis""]
+}"
+2305,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""winning tickets"", ""lottery ticket hypothesis"", ""magnitude pruning"", ""sparse"", ""deep networks"", ""performance"", ""data-limited regimes"", ""recognizers"", ""low data regimes"", ""datasets"", ""long-tailed classification"", ""generalizable"", ""robust""], 
+    ""Q4"": [""image recognition""]
+}"
+2322,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robust Binary Models"", ""Pruning Randomly-initialized Networks"", ""Adversarial attacks"", ""Model capacity"", ""Memory footprint"", ""binary networks"", ""Strong Lottery Ticket Hypothesis"", ""Binary initialization scheme"", ""Batch normalization layer"", ""Training stability""],
+    ""Q4"": [""None""]
+}"
+2327,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Low-Curvature Neural Networks"", ""Curvature"", ""Adversarial robustness"", ""Gradient stability"", ""Centered-softplus"", ""Lipschitz-constrained batch normalization""],
+    ""Q4"": ""None""
+}"
+2343,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Tabular setting"", ""Outcome heterogeneity"", ""Subgroup analysis"", ""Predictive confidence"", ""Aleatoric uncertainty"", ""Data-IQ"", ""Stratification"", ""Medical datasets"", ""ML model selection""],
+    ""Q4"": [""Healthcare""]
+}
+"
+2354,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Out-of-distribution detection"", ""Deep learning classifiers"", ""Probabilistic framework"", ""Regularization constraints"", ""Density consistency"", ""Contrastive distribution regularization"", ""Neural network classifiers""],
+    ""Q4"": [""Computer vision benchmarks""]
+}
+"
+2363,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Collaborative inference"", ""Inference-time attacks"", ""Block-sparse nature of adversarial perturbations"", ""Redundancy across embedded features"", ""Lower dimensional manifold"", ""Certifiably robust"", ""Feature purification"", ""Untargeted distributed feature-flipping attack"", ""ExtraSensory dataset"", ""NUS-WIDE dataset""],
+    ""Q4"": [""ExtraSensory dataset"", ""NUS-WIDE dataset""]
+}"
+2401,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Bayesian Spline Learning"", ""Equation Discovery"", ""Nonlinear Dynamics"", ""Quantified Uncertainty"", ""Robustly distilling explicit model forms"", ""Sparse data"", ""Noise"", ""Uncertainty"", ""Spline basis"", ""Derivatives"", ""Bayesian uncertainty calibration"", ""Sparsity"", ""Alternative direction optimization""],
+    ""Q4"": [""Nonlinear dynamical systems""]
+}"
+2407,"{
+  ""Q1"": ""None"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Deep Reinforcement Learning"", ""Value function optimization"", ""Online network"", ""Target network"", ""DQN"", ""Rainbow"", ""Noisy updates"", ""Performance improvements"", ""Atari benchmark""],
+  ""Q4"": [""Reinforcement Learning""]
+}"
+2419,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Neural Ordinary Differential Equations (NODEs)"", ""Weight sparsity"", ""Feature sparsity"",""Out-of-distribution (OOD) generalization"", ""Forecasting"", ""Dynamics identification"", ""Regularization technique"", ""Challenging benchmarks"", ""Spurious feature dependencies"", ""Predictions under interventions"", ""Inferring true underlying dynamics""],
+    ""Q4"": [""Human motion capture"", ""Human hematopoiesis single-cell RNA-seq data""]
+}
+"
+2424,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""reinforcement learning"", ""policy evaluation"", ""on-policy sampling"", ""off-policy sampling"", ""Monte Carlo estimator""],
+    ""Q4"": []
+}"
+2443,"{
+    ""Q1"": ""Another type of attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Algorithmic pricing"", ""Economic platforms"", ""AI collusion"", ""Reinforcement learning"", ""Decentralized pricing"", ""Buy boxes"", ""Stackelberg POMDPs""],
+    ""Q4"": [""Online e-commerce""]
+}"
+2446,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Human-AI collaboration"", ""Bayesian optimization"", ""Expert feedback"", ""Optimization efficiency""],
+    ""Q4"": [""None""]
+}"
+2459,"{""Q1"":""None"",""Q2"":""None"",""Q3"":[""causal inference"",""counterfactuals"",""A/B testing"",""experimental data"",""observational data"",""estimands"",""sharp bounds"",""covariates"",""robust inference"",""algorithm"",""conservative bounds"",""career counseling""],""Q4"":[""unemployed""]}"
+2464,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""square loss"", ""classification"", ""overparametrized neural networks"", ""neural tangent kernel"", ""generalization error"", ""robustness"", ""calibration error"", ""separable classes"", ""misclassification rate"", ""margin""],
+    ""Q4"": [""Synthetic low-dimensional data"", ""Real image data""]
+}"
+2472,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""open-vocabulary models"", ""image classification"", ""model patching"", ""PAINT"", ""fine-tuning"", ""zero-shot performance"", ""model scale"", ""transfer learning"", ""typographic attacks"", ""CLIP""],
+    ""Q4"": [""ImageNet""]
+}
+"
+2473,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Implicit Nonlinear Diffusion Model (INDM)"", ""Diffusion Models"", ""Linear Diffusion"", ""Nonlinear Diffusion"", ""Normalizing flow"", ""Latent space"", ""Flow network"", ""Maximum Likelihood Estimation (MLE)"", ""Generative distribution"", ""Data distribution"", ""Score-based diffusion models""],
+    ""Q4"": []
+}"
+2490,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+  ""Q2"": ""Specific adversarial defence methods"", 
+  ""Q3"": [""label noise"", ""adversarial training"", ""robust overfitting"", ""perturbation radius"", ""data quality"", ""double descent"", ""calibration"", ""performance improvements"", ""models"", ""datasets""], 
+  ""Q4"": [""None""]
+}"
+2501,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Domain adaptation"", ""GANs"", ""Hypernetwork"", ""Fine-tuning"", ""Regularization loss"", ""Multi-domain adaptation""],
+    ""Q4"": [""None""]
+}"
+2505,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""causal inference"", ""unmeasured confounding"", ""conditional average treatment effect"", ""tree-based models"", ""observational data"", ""historical controls"", ""gradient boosting""],
+    ""Q4"": [""credit card balance""]
+}"
+2513,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Polynomial Networks"", ""PNs"", ""Robustness"", ""Certificates"", ""Verification"", ""ReLU neural networks"", ""NNs"", ""Branch and bound"", ""BaB"", ""Interval bound propagation"", ""IBP"", ""DeepT-Fast"", ""MNIST"", ""CIFAR10"", ""STL10"" ],
+    ""Q4"": [""image recognition""]
+}
+"
+2544,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Dale's principle"", ""neural networks"", ""recurrent spiking neural networks"", ""rate-based networks"", ""synaptic noise"", ""learning mechanisms"", ""biologically-inspired artificial neural networks""],
+    ""Q4"": [""Biological""]
+}"
+2547,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Concept removal"", ""Concept detection"", ""Probing classifier"", ""Adversarial methods"", ""Task-relevant features"", ""Representation space"", ""Spuriousness metric""],
+    ""Q4"": [""Fairness""]
+}"
+2563,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Hidden trigger backdoors"", ""Poisoning attack"", ""Neural networks"", ""Scalable"", ""Training data tampering"", ""Gradient matching"", ""Data selection"", ""Target model re-training""],
+    ""Q4"": [""ImageNet""]
+}"
+2603,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Semidefinite programming"", ""Linear programming"", ""Quadratically-constrained quadratic programming"", ""Online"", ""Augmented"", ""Predictor"", ""Approximating"", ""Optimal solution"", ""Constant-factor approximation"", ""Consistency"", ""Robustness"", ""Online set cover problem"", ""Machine-learning predictors"", ""Online covering SDP problem"", ""Primal-dual framework"", ""Bounded region"", ""Box constraints""],
+    ""Q4"": [""None""]
+}
+"
+2607,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""modular neural architectures"", ""sparsely interacting modules"", ""neural attentive circuits"", ""parameterization"", ""connectivity"", ""end-to-end training"", ""low-shot adaptation"", ""OOD robustness"", ""inference time"", ""diverse data modalities"", ""point-cloud classification"", ""symbolic processing"", ""text-classification""], 
+    ""Q4"": [""Natural Language"", ""Visual Reasoning"", ""CIFAR"", ""Caltech-UCSD Birds"", ""Tiny ImageNet-R""]
+}"
+2619,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness evaluations"", ""Gradient-based attacks"", ""Machine-learning models"", ""Attack failures"", ""Optimization"", ""Debugging"", ""Indicators of failure""],
+    ""Q4"": [""Application domains""]
+}"
+2624,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Graph Neural Networks"", ""Adversarial defenses"", ""Robustness analysis"", ""Custom adaptive attacks"", ""Perturbed graphs"", ""Non-adaptive attacks""],
+    ""Q4"": ""None""
+}"
+2625,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial robustness"", ""Lazy training"", ""Random neural networks"", ""Gradient ascent"", ""Over-parametrized neural networks"", ""Generalization"", ""Computational guarantees""],
+    ""Q4"": ""None""
+}
+"
+2627,"{
+    ""Q1"":""None"",
+    ""Q2"":""Other aspects of adversarial machine learning"",
+    ""Q3"":[""Generative flow networks"",""GFlowNets"", ""Stochastic policy"", ""Compositional objects"", ""Graphs"", ""Strings"", ""Unnormalized density"", ""Action sequences"", ""Credit assignment"", ""Temporal difference learning"", ""Trajectory balance"", ""Efficient credit propagation""],
+    ""Q4"":""None""
+}"
+2635,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""invariant learning"",""environment diversification"",""multi-head neural network"",""distributional shifts"",""empirical risk minimization"",""causal features""],
+    ""Q4"": [""None""]
+}
+"
+2645,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Cryo-Electron Microscopy"", ""3D structures"", ""biomolecules"", ""noisy 2D images"", ""projection directions"", ""group synchronization framework"", ""relative poses"", ""image pose estimation"", ""multi-frequency vector diffusion maps"", ""MFVDM"", ""O(2) relative poses""],
+    ""Q4"": [""Cryo-EM"", ""biomolecules"", ""imaging method"", ""3D reconstruction algorithm""]
+}"
+2649,"{
+""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""robust reinforcement learning"", ""RL"", ""model parameters"", ""uncertainty"", ""Robust Fitted Q-Iteration"", ""RFQI"", ""offline data"", ""minimization"", ""Bellman operator"", ""optimization"", ""unbiased estimation""],
+""Q4"": [""Reinforcement learning""]
+}"
+2653,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Task discovery"", ""Generalization"", ""Deep learning models"", ""Inductive biases"", ""Learning framework"", ""Statistical patterns"", ""Adversarial train-test splits"", ""Human-interpretability""], 
+    ""Q4"": []
+}"
+2654,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Tree-based models"", ""Robustness"", ""Interpretability"", ""Decision stump ensembles"", ""Dynamic programming"", ""Certifying"", ""Randomized smoothing"", ""MLE-optimal training method"", ""Boosting approaches"", ""Certified accuracy"", ""Computer vision"", ""Tabular data""],
+    ""Q4"": [""Finance"", ""Medicine""]
+}
+"
+2671,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Deep neural networks"",""Backdoor detection"",""Poisoned data"",""Channel shuffling"", ""Randomized channel shuffling"",""Minimal-overhead"",""Clean data-free setting"",""AUROC""],
+    ""Q4"": [""CIFAR-10"",""GTSRB"",""Tiny ImageNet"",""AlexNet"",""ResNet-20"",""SENet-18"",""BadNets"",""Clean label attack"",""WaNet""]
+}
+"
+2680,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""Weak supervision"", ""Structured prediction"", ""Pseudolabels"", ""Binary classification"", ""Finite metric space"", ""Pseudo-Euclidean embeddings"", ""Tensor decompositions"", ""Constant-curvature Riemannian manifolds"", ""Invariants"", ""Noisy labels"", ""Robustness guarantees""], 
+    ""Q4"": ""None""
+}"
+2681,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [
+        ""Concept bottleneck models"",
+        ""Intermediate level of human-like concepts"",
+        ""Concept Embedding Models"",
+        ""interpretable high-dimensional concept representations"",
+        ""task accuracy""
+    ],
+    ""Q4"": []
+}"
+2686,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""concept credible models"", ""shortcuts"", ""robust"", ""accurate"", ""biased training data"", ""mitigating"", ""domain knowledge""], 
+    ""Q4"": [""None""]
+}"
+2689,"{
+ ""Q1"": ""Evasion attack"",
+ ""Q2"": ""Specific adversarial attack methods"",
+ ""Q3"": [""backdoor attack"", ""target class"", ""malicious input"", ""trigger"", ""class-conditional generative model"", ""optimization framework"", ""MNIST"", ""CIFAR10"", ""GTSRB"", ""TinyImageNet"" ],
+ ""Q4"": [""None""]
+}
+"
+2720,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Robustness"", ""Smoothness"", ""Generalized SignSGD"", ""Non-convex optimization"", ""Deep learning"", ""Adam-type algorithms"", ""Unbounded smoothness"", ""Gradient descent"", ""Momentum"", ""Noise"", ""Mini-batch""],
+    ""Q4"": [""Deep learning tasks""]
+}"
+2724,"{
+ ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Fairness"", ""Machine Learning"", ""Model Performance"", ""Data Distribution"", ""Subpopulation Decomposition"", ""Optimization Problem"", ""Certification Framework"", ""Sensitive Shifting"", ""General Shifting"", ""Real-world datasets"", ""Non-skewness constraints"", ""Distributional robustness bounds"", ""Gaussian data""],
+ ""Q4"": [""Medical insurance"", ""Education"", ""Hiring decisions""]
+}"
+2730,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Stochastic optimization"", ""Energy-based model"", ""Decision-focused learning"", ""Predictive modeling"", ""Implicitly differentiable optimization layer"", ""Training efficiency"", ""KKT conditions"", ""Maximum likelihood loss"", ""Distribution-based regularizer"", ""Self-normalized importance sampler"", ""Gaussian mixture proposal"", ""Power scheduling"", ""COVID-19 resource allocation"", ""Non-convex adversarial security game""],
+    ""Q4"": [""Power scheduling"", ""COVID-19 resource allocation""]
+}"
+2734,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""AutoML"", ""Diverse Tasks"", ""Modern Methods"", ""Efficiency"", ""Scale"", ""2020s competition"", ""benchmark"", ""automated machine learning"", ""non-deep-learning AutoML"", ""hyperparameter optimization"", ""meta-learning"", ""neural architecture search"", ""unsupervised pretraining"", ""practical applications"", ""scientific"", ""technological"", ""industrial domains"", ""computational budget"", ""performance profiles methodology"", ""monetary prizes""], 
+    ""Q4"": [""scientific"", ""technological"", ""industrial""]
+}
+"
+2737,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Trojan detection"", ""Trojan attacks"", ""Neural networks"", ""Security"", ""ML systems"", ""Offense-defense balance""],
+    ""Q4"": [""Trojans""]
+}"
+2747,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Cross-domain meta-learning"", ""few-shot image classification"", ""any-way any-shot setting"", ""meta-learn"", ""practical domains"", ""scalability"", ""robustness to domain changes"", ""generalization ability""],
+    ""Q4"": [""healthcare"", ""ecology"", ""biology"", ""manufacturing""]
+}
+"
+2748,"{
+    ""Q1"": ""Poisoning attack"", 
+    ""Q2"": ""Specific adversarial attack methods"", 
+    ""Q3"": [""Autoregressive"", ""Data Poisoning"", ""Unlearnable"", ""Adversarial training"", ""Data augmentations""], 
+    ""Q4"": None
+}"
+2750,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""multi-agent reinforcement learning"", ""centralized training"", ""reward shaping"", ""decentralized training"", ""sparse rewards"", ""self-supervised intrinsic reward"", ""expectation alignment"", ""animal collaboration"", ""agent coordination"", ""zero-shot coordination""], 
+    ""Q4"": [""multi-agent particle"", ""Google Research football""]
+}"
+2765,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Neural Networks"", ""Dynamic Systems"", ""Stochastic Barrier Functions"", ""Safety Analysis"", ""Convex Optimization"", ""Lyapunov functions"", ""Stability"", ""Certification"", ""Control Synthesis"", ""Experimental Results""],
+    ""Q4"": [""None""]
+}"
+2773,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""feature selection"", ""neural networks"", ""sparse autoencoders"", ""sparse training"", ""informative features"", ""computational time"", ""unsupervised method""],
+    ""Q4"": [""image"", ""speech"", ""text"", ""artificial"", ""biological""]
+}"
+2781,"{
+  ""Q1"": ""Evasion attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""Stochastic pre-processing defenses"", ""Adversarial examples"", ""randomization"", ""projected gradient descent"", ""Expectation over Transformation"", ""adversarial robustness"", ""model invariance""],
+  ""Q4"": [""None""]
+}
+"
+2802,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial examples"", ""Stochastic pre-processing defenses"", ""Randomness"", ""Inference"", ""Projected gradient descent"", ""Expectation over Transformation"", ""Adversarial robustness"", ""Model invariance"", ""Hypergraph neural networks"", ""Hypergraph"", ""Contrastive learning"", ""Generalizability"", ""Low-label regime"", ""HyperGCL"", ""Augmentations"", ""Hypertrees"", ""Higher-order relations"", ""Vertex augmentation"", ""Graph-structured data"", ""Hypergraph generative model"", ""End-to-end differentiable pipeline"", ""Fabricated and Generative""],
+    ""Q4"": [""Hypergraph representation learning""]
+}"
+2813,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Gateaux derivatives"", ""causal inference"", ""empirical"", ""finite-differencing"", ""counterfactual mean estimation"", ""dynamic treatment regimes"", ""linear-programming formulation"", ""policy optimization"", ""infinite-horizon Markov decision processes"", ""bias adjustments""],
+    ""Q4"": [""None""]
+}"
+2820,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""Embedding models"", ""Latent vector representations"", ""Heterogeneous data"", ""Gaussian copula"", ""Robust embeddings"" ],
+    ""Q4"": [""None""]
+}"
+2855,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""privacy"", ""robustness"", ""differentially-private algorithms"", ""information-computation gaps"", ""sparse mean estimation""],
+    ""Q4"": ""None""
+}"
+2830,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial"", ""Reinforcement Learning"", ""Robustness"", ""Model-based"", ""Offline"", ""Value function"", ""Environment model"", ""PAC performance guarantee""],
+    ""Q4"": []
+}"
+2833,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""distributionally robust"", ""weighted k-nearest neighbors"", ""machine learning"", ""robust classifier"", ""metric learning"", ""minimax"", ""functional optimization"", ""Lipschitz norm"", ""feature embedding"", ""few-training-sample setting""],
+    ""Q4"": [""real-data experiments""]
+}"
+2837,"{
+ ""Q1"": ""Evasion attack"",
+ ""Q2"": ""Specific adversarial defence methods"",
+ ""Q3"": [""Adversarial robustness"", ""Neural networks"", ""Lipschitz constant"", ""Mixture of Experts"", ""Sparse models"", ""ImageNet"", ""Adversarial attacks""],
+ ""Q4"": [""ImageNet""]
+}"
+2839,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""LiDAR-Camera Fusion"", ""3D object detection"", ""LiDAR malfunction"", ""autonomous driving"", ""BEVFusion"", ""robustness training""],
+    ""Q4"": [""autonomous driving""]
+}"
+2841,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Continual Learning"", ""Retrospective Adversarial Replay"", ""Adversarial Samples"", ""Forgetting Boundary"", ""Latent Representation"", ""MixUp-based strategy"", ""Hyperparameter Sensitivity Analysis""],
+    ""Q4"": ""None""
+}
+"
+2843,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Adversarial Auto-Augment"", ""Label Preservation"", ""Representation Learning Principle"", ""Autonomous Data Augmentation"", ""Data Augmentation"", ""Deep Learning""],
+    ""Q4"": [""Medical Images""]
+}
+"
+2844,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Hard-pose virtual try-on"",""3D-aware global correspondence learning"",""garment warping flows"",""2D poses and appearance"",""geometric prior of the 3D human body shape"",""long-range dependencies"",""3D human bodies"",""encoders"",""decoder"",""refinement modules"",""3D parametric human models"",""adversarial generator"",""photo-realistic try-on result"",""public benchmarks"",""HardPose test set""],
+    ""Q4"": [""image-based person-to-person virtual try-on""]
+}
+"
+2848,"{
+""Q1"": ""Evasion attack"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Adversarial transformers"", ""Medical image segmentation"", ""Pyramid structure"", ""Multi-scale representations"", ""Class-aware transformer module"", ""Adversarial training strategy"", ""Dice"",""Transformer-based discriminator"", ""Semantic structures"", ""Transfer learning""],
+""Q4"": [""Medical""]
+}
+"
+2849,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Uncertainty quantification"", ""Deep classifiers"", ""Conditional GANs"", ""Aleatoric uncertainty"", ""Epistemic uncertainty"", ""Out-of-distribution (OOD)"", ""False positives""],
+    ""Q4"": [""CIFAR10"", ""CIFAR100"", ""Tiny ImageNet""]
+}"
+2850,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Deep classifiers"", ""Spurious features"", ""Empirical risk minimization (ERM)"", ""Group robustness training"", ""Deep Feature Reweighting (DFR)"", ""Representations"", ""Vision and NLP problems"", ""Model architecture"", ""Pre-training strategy"", ""Regularization""],
+    ""Q4"": [""Waterbirds"", ""CelebA hair color prediction"", ""WILDS-FMOW""]
+}"
+2863,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""superpolynomial statistical query (SQ) lower bounds"", ""learning"", ""two-hidden-layer ReLU networks"", ""Gaussian inputs"", ""standard (noise-free) model"", ""agnostic learning"", ""correlational SQ"", ""Vempala and Wilmes (2019)"", ""Boolean PAC learning"", ""cryptographic hardness"", ""PAC learning"", ""two-hidden-layer ReLU networks"", ""membership queries""],
+    ""Q4"": []
+}"
+2867,"{
+    ""Q1"": ""Evasion attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""No-reference image quality assessment"", ""Perceptual robustness"", ""Lagrangian formulation"", ""Human perception"", ""Psychophysical experiments"", ""Counterexamples""],
+    ""Q4"": [""Computational vision"",""Man-made vision systems""]
+}"
+2871,"{
+    ""Q1"":""None"",
+    ""Q2"":""Specific adversarial defence methods"",
+    ""Q3"":[""stable dynamics"",""input-output stable systems"",""robustness"",""nonlinear systems"",""Hamilton-Jacobi inequality"",""quadtratic constraint quadratic programming"",""neural networks"",""input-output stability""],
+    ""Q4"":[""Robotics"",""Physical modeling"",""Systems biology""]
+}"
+2897,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Domain decomposition"", ""Graph Convolutional Neural Networks (GCNNs)"", ""unsupervised learning"", ""optimal modifications"", ""subdomain interfaces"", ""loss function"", ""linear solvers"", ""classical"", ""optimized domain decomposition algorithms"", ""structured-grid"", ""unstructured-grid""],
+    ""Q4"": [""PDE""]
+}"
+2911,"{
+  ""Q1"": ""Another type of attack"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [
+    ""Semi-supervised learning"",
+    ""Unlabeled data"",
+    ""Unseen classes"",
+    ""Classification"",
+    ""Pairwise similarity"",
+    ""Learning pace synchronization""
+  ],
+  ""Q4"": ""None""
+}
+"
+2912,"{
+""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Active Model Adaptation"", ""Label-Efficient OOD Generalization"", ""Out-Of-Distribution"", ""Invariant Risk Minimization"", ""Interactive Model Adaptation"", ""Active Sample Selection"", ""Causal Invariant Learning"", ""Mixture Distribution Separation"", ""Unbiased Estimator""],
+""Q4"": ""None""
+}"
+2914,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Archimax copulas"", ""multivariate dependencies"", ""bulk and tails of a distribution"", ""non-parametric inference"", ""sampling algorithm"", ""density modeling techniques"", ""interplay between the bulk and the tails of a distribution"", ""health and safety""],
+    ""Q4"": [""health and safety""]
+}
+"
+2923,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Mobile Monocular 3D Object Detection"", ""Ground Depth Estimation"", ""Mono3D"", ""camera pose"", ""pose detection network"", ""RGB-D feature fusion network"", ""transformer structure"", ""long-range self-attention mechanism"", ""KITTI dataset""],
+    ""Q4"": [""Automotive""]
+}
+"
+2931,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Textual backdoor attacks"", ""NLP systems"", ""Attack and defense models"", ""Evaluation protocols"", ""Stealthiness"", ""Semantic-preserving"", ""Perplexity difference"", ""Text similarity"", ""Open-source toolkit"", ""Clustering-based defense"", ""Poisoned datasets""],
+    ""Q4"": [""NLP""]
+}"
+2933,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Wasserstein Generative Adversarial Networks (WGANs)"", ""Optimal Transport (OT)"", ""Kantorovich duality"", ""Wasserstein-1 distance"", ""1-Lipschitz functions"", ""ray monotone transport plans"", ""benchmark distributions"", ""analytically known OT plan"", ""OT cost"", ""OT gradient"", ""high-dimensional spaces"", ""images"", ""gradient penalty"", ""spectral normalization"", ""entropic regularization""],
+    ""Q4"": ""None""
+}"
+2937,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""stereo vision"", ""active stereo"", ""passive stereo"", ""deep learning-based stereo"", ""performance gap"", ""feature extraction"", ""matching modules"", ""disparity refinement"", ""ACVNet"", ""CascadeStereo"", ""StereoNet"", ""Active-Passive SimStereo dataset"", ""benchmarking""],
+    ""Q4"": [""stereo vision""]
+}
+"
+2946,"{
+""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Document Image Classifiers"", ""Out-of-Distribution Performance"", ""RVL-CDIP corpus"", ""Benchmark"", ""Generalizability"", ""Robust deployment""],
+""Q4"": [""Document classification"", ""RVL-CDIP""]
+}
+"
+2938,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Multi-Agent Tracking Environment (MATE)"", ""Target coverage control"", ""Asymmetric cooperative-competitive game"", ""Directional sensors"", ""Cargo transportation"", ""Multi-agent reinforcement learning (MARL)"", ""Cooperation"", ""Communication"", ""Scalability"", ""Robustness"", ""Asymmetric self-play"", ""MAPPO"", ""IPPO"", ""QMIX"", ""MADDPG"", ""TarMAC"", ""I2C"", ""PSRO"", ""Fictitious self-play"", ""Zero-sum competitive game"", ""Co-evolution"", ""I2C"", ""Target-target communication"", ""Python"", ""OpenAI Gym API""],
+    ""Q4"": ""None""
+}
+"
+2943,"{
+""Q1"": ""None"", 
+""Q2"": ""Specific adversarial defence methods"", 
+""Q3"": [""Personalized Federated Learning"", ""pFL"", ""Statistical heterogeneity"", ""FL clients"", ""Evaluation"", ""Systematical analysis"", ""Datasets"", ""FL simulation settings"", ""pFL implementations"", ""Generalization"", ""Fairness"", ""System overhead"", ""Convergence"", ""State-of-the-art pFL methods"", ""Codebase""],
+""Q4"": [""Application domains""]
+}"
+3004,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Foundation models"",""deep learning"",""pre-training"",""large-scale unlabeled data"",""finetuning"",""task-specific supervision"",""general representations"",""few-shot/zero-shot generalization"",""domains"",""data modalities"",""robustness"",""privacy"",""excessive volume of data"",""complex neural network architectures"",""trustworthiness""],
+    ""Q4"":""None""
+}
+"
+2948,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""Backdoor learning"", ""Deep neural networks' vulnerability"", ""Backdoor attack"", ""Defense methods"", ""Modular-based codebase"", ""Standardized protocol"", ""Poisoning ratios"", ""Models"", ""Datasets""],
+    ""Q4"": ""None""
+}"
+2964,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""post hoc explanation methods"", ""benchmarking"", ""synthetic data generator"", ""real-world datasets"", ""pre-trained models"", ""feature attribution methods"", ""quantitative metrics"", ""faithfulness"", ""stability"", ""fairness"", ""leaderboards"", ""transparency"", ""reproducibility"", ""tabular datasets""],
+    ""Q4"": [""tabular datasets""]
+}
+"
+2966,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""surrogate models"",""computational fluid dynamics"",""Reynolds-Averaged Navier–Stokes"",""dataset"", ""airfoils"", ""machine learning"", ""deep learning"", ""generalization""],
+    ""Q4"": [""Fluid dynamics""]
+}"
+2972,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""image datasets"", ""computer vision"", ""representative"", ""demographic information"", ""robustness"", ""fairness"", ""subpopulations"", ""Dollar Street"", ""supervised dataset"", ""images"", ""everyday household items"", ""homes"", ""world"", ""manually curated"", ""fully labeled"", ""tags"", ""objects"", ""region"", ""country"", ""home monthly income"", ""internet access"", ""income"", ""socioeconomic diversity"", ""under-represented populations"", ""CC-BY"", ""academic"", ""commercial work"", ""performance"", ""classification tasks"", ""lower income homes"", ""bias""],
+    ""Q4"": [""image datasets"", ""computer vision"", ""socioeconomic diversity"", ""under-represented populations""]
+}
+"
+2977,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [ ""large-scale"", ""image-text"", ""dataset"", ""CLIP-filtered"", ""multi-modal"", ""models"", ""replication"", ""fine-tuning"", ""subset generation"", ""watermark"",""NSFW"",""toxic content detection""],
+    ""Q4"": [""Language-Vision""]
+}
+"
+2984,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"", 
+    ""Q2"": ""Specific adversarial defence methods"", 
+    ""Q3"": [""Ambiguous Images"", ""Human Judgments"", ""Robust Visual Event Classification"", ""Noisy images"", ""Model training"", ""Model calibration""], 
+    ""Q4"": [""Visual event classification""]
+}"
+2990,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Incentive-aware Machine Learning"", ""Robustness"", ""Fairness"", ""Improvement"", ""Performativity"", ""Strategizing"", ""Policy decisions"", ""Inequalities"", ""Effort exertion""],
+""Q4"": [""None""]
+}
+"
+2994,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Dynamic Link Prediction"", ""Time-evolving graphs"", ""Evaluation procedures"", ""Visualization techniques"", ""Memorization-based baseline"", ""Negative sampling strategies"", ""Dynamic graph datasets"", ""Benchmarks""],
+""Q4"": [""None""]
+}"
+3005,"{
+""Q1"": ""None"",
+""Q2"": ""Other aspects of adversarial machine learning"",
+""Q3"": [""Unsupervised Learning Algorithms"",""Model Human Real-time"",""Life-long Learning"",""visual inputs"",""timescales"",""real-time learning benchmark"",""life-long learning benchmark"",""deep self-supervised visual learning algorithms"",""BYOL"",""SwAV"",""MAE"",""SimCLR"",""MoCo-v2"",""memory"",""negative sampling"",""context-sensitive"",""catastrophic forgetting"",""human-like algorithms""],
+""Q4"": [""computer vision"",""real-world""]
+}"
+3007,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Human action recognition"", ""Background bias"", ""Video understanding"", ""Human-centric Analysis Toolkit (HAT)"", ""Image segmentation"", ""Video inpainting"", ""Kinetics dataset"", ""Model design decisions""],
+    ""Q4"": [""Video understanding""]
+}
+"
+3009,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""Distribution shifts"", ""Temporal distribution shift"", ""Real-world applications"", ""Drug discovery"", ""Patient prognosis"", ""News classification"", ""Benchmark"", ""Inductive biases"", ""Domain-generalization"", ""Continual learning"", ""Self-supervised learning"", ""Ensemble learning"", ""Evaluation with a fixed time split"", ""Evaluation with a data stream""],
+    ""Q4"": [""Drug discovery"", ""Patient prognosis"", ""News classification""]
+}"
+3014,"{
+  ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+  ""Q2"": ""Specific adversarial defence methods"",
+  ""Q3"": [""robustness"",""video-language models"",""visual perturbations"",""language perturbations"",""text-to-video retrieval"",""benchmark"",""dataset""],
+  ""Q4"": [""Video"", ""Language""]
+}"
+3017,"{
+""Q1"": ""None"",
+""Q2"": ""Specific adversarial defence methods"",
+""Q3"": [""Reinforcement Learning"", ""Procedural-content generation"", ""GriddlyJS"", ""Web-based Integrated Development Environment"", ""grid-world environments"", ""agent models"", ""RL workflow"", ""web standards"", ""automatic curriculum learning"", ""offline RL""],
+""Q4"": [""RL research""]
+}"
+3021,"{
+    ""Q1"": ""Poisoning attack"",
+    ""Q2"": ""Specific adversarial attack methods"",
+    ""Q3"": [""backdoor poison attacks"", ""physical backdoors"", ""digital trigger patterns"", ""ImageNet"", ""training samples"", ""physical backdoor attacks""],
+    ""Q4"": [""image datasets""]
+}
+"
+3031,"{
+    ""Q1"": ""None"",
+    ""Q2"": ""Other aspects of adversarial machine learning"",
+    ""Q3"": [""Neural architecture search"", ""benchmarking"", ""diverse tasks"", ""CNN-based search methods"", ""performance"", ""evaluation"", ""robustness""],
+    ""Q4"": [""None""]
+}"
+3052,"{
+    ""Q1"": ""Lack of robustness to (not necessarily adversarial) OOD inputs"",
+    ""Q2"": ""Specific adversarial defence methods"",
+    ""Q3"": [""autonomous driving"", ""machine learning"", ""testing"", ""scenario generation"", ""deep reinforcement learning"", ""benchmarking"", ""safety evaluation"", ""NHTSA""],
+    ""Q4"": [""autonomous vehicle""]
+}"
+3054,"{
+    ""Q1"": ""None"", 
+    ""Q2"": ""Other aspects of adversarial machine learning"", 
+    ""Q3"": [""NLP"", ""benchmarking"", ""language models"", ""Polish"", ""GLUE"", ""SuperGLUE"", ""KILT"", ""KLEJ"", ""low-resourced languages"", ""datasets"", ""tasks"", ""flexibility"", ""data versioning"", ""model tracking""],
+    ""Q4"": [""Polish""]
+}"
